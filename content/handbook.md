@@ -16,3 +16,18 @@
 - 2026 年 3 月 4 日 A 股复盘：缩量退潮中的结构机会｜https://caifuhao.eastmoney.com/news/20260304223351942355050
 - ãç¦ç¹å¤çãå¸åºå ¨å¤©ç°æ®æ¶¨åå¼¹ï¼çµç½è®¾å¤æ¿åå¼ºå¿ä¾æ§ï¼éå­ç§æç­æªæ¥äº§ä¸è½®å¨æ´"è·｜https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxspk3197859.shtml?froms=ggmp
 - 关于股市情绪周期的深入思考(春节干货贴一)_恨一个人就让他炒股_ 淘股吧｜https://www.tgb.cn/a/2pqI4ifouR0-1
+
+---
+## 2026-03-05 新增素材（待你筛选/消化）
+
+- 本日新增的“可迁移观点/制度变化/资金结构线索”会先进入 insights（status=new）。
+- 你把某条的 status 改成 kept/digested，我再把它写进“固定章节”里。
+
+- https://xueqiu.com/4026867340/294772279｜https://xueqiu.com/4026867340/294772279
+- 量化交易功过之辩，管理层一锤定音：规范发展 ｜钛媒体焦点｜https://news.qq.com/rain/a/20230905A0056J00
+- 股票复盘网_涨停板股票复盘神器_全网最权威、最专业的打板客复盘平台｜https://www.fupanwang.com/
+- https://img3.gelonghui.com/pdf/33dde-21366a86-9b23-48da-9d38-84bac6fcfefc.pdf｜https://img3.gelonghui.com/pdf/33dde-21366a86-9b23-48da-9d38-84bac6fcfefc.pdf
+- A股板块涨停深度分析报告20260305_财富号_东方财富网｜https://caifuhao.eastmoney.com/news/20260305215016388330470?from=guba&name=5LiW5ZiJ56eR5oqA5ZCn&gubaurl=aHR0cDovL2d1YmFwb3N0LmVhc3Rtb25leS5jb20vbGlzdCwwMDI3OTYuaHRtbA%3D%3D
+- Aè¡éåæèµä¸­ï¼åºäºæ ç"ªå¨æçè®ºçæèµåæä½æ¢ç´¢｜https://shengxinai.com/archives/qi-li-lun-de-tou-zi-he-cao-zuo-tan-suo
+- 判断当前市场处于情绪周期的哪个阶段，核心是“看数据、看龙头、看亏钱效应”。情绪周_财富号_东方财富网｜https://caifuhao.eastmoney.com/news/20260228132132142541200
+- 试写复盘第89天2026.3.3_认真学三年_ 淘股吧｜https://www.tgb.cn/a/2pRZy1hvM5r
