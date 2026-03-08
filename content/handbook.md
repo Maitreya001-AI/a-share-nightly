@@ -31,3 +31,10 @@
 - Aè¡éåæèµä¸­ï¼åºäºæ ç"ªå¨æçè®ºçæèµåæä½æ¢ç´¢｜https://shengxinai.com/archives/qi-li-lun-de-tou-zi-he-cao-zuo-tan-suo
 - 判断当前市场处于情绪周期的哪个阶段，核心是“看数据、看龙头、看亏钱效应”。情绪周_财富号_东方财富网｜https://caifuhao.eastmoney.com/news/20260228132132142541200
 - 试写复盘第89天2026.3.3_认真学三年_ 淘股吧｜https://www.tgb.cn/a/2pRZy1hvM5r
+
+---
+## 2026-03-05 新增素材（待你筛选/消化）
+
+- 本日新增的“可迁移观点/制度变化/资金结构线索”会先进入 insights（status=new）。
+- 你把某条的 status 改成 kept/digested，我再把它写进“固定章节”里。
+
