@@ -61,9 +61,21 @@ function fetchText(url){
   }
 }
 
+function looksMojibake(s=''){
+  return /Ã|Â|�|ã|æ|ç|ï¼|\u0000|\x00/.test(s);
+}
+
+function isLikelyBinary(s=''){
+  return /%PDF-|JFIF|\u0000/.test(s);
+}
+
 function simpleSummary(text, max=500){
-  const t = (text||'').trim().replace(/\s+\n/g,'\n').replace(/\n{3,}/g,'\n\n');
+  const raw = String(text || '');
+  if (!raw) return '';
+  if (isLikelyBinary(raw)) return '';
+  const t = raw.trim().replace(/\s+\n/g,'\n').replace(/\n{3,}/g,'\n\n');
   if (!t) return '';
+  if (looksMojibake(t.slice(0, 300))) return '';
   return t.slice(0, max);
 }
 
@@ -128,8 +140,13 @@ function main(){
     const fetched = fetchText(url);
 
     const id = sha1(url);
-    const title = fetched.title || url;
+    const titleRaw = fetched.title || url;
+    const title = looksMojibake(titleRaw) ? url : titleRaw;
     const summary = simpleSummary(fetched.text, 600);
+
+    if (!summary && (isLikelyBinary(fetched.text || '') || /\.pdf(\?|$)/i.test(url))) {
+      continue; // skip binary-like content such as PDF blobs
+    }
 
     const insight = {
       id,
