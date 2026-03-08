@@ -8,15 +8,19 @@ export default function HandbookPage() {
   const md = fs.existsSync(p) ? fs.readFileSync(p, "utf8") : "# 手册\n\n暂无内容。";
 
   return (
-    <main className="mx-auto max-w-4xl px-6 py-10">
-      <div className="mb-6 flex gap-2 text-sm">
-        <a href="/" className="rounded-lg border px-3 py-2 hover:bg-zinc-50">← 首页</a>
-        <a href="/insights" className="rounded-lg border px-3 py-2 hover:bg-zinc-50">Insights</a>
+    <main className="mx-auto max-w-5xl px-6 py-10 text-zinc-900">
+      <div className="mb-6 flex flex-wrap gap-2 text-sm">
+        <a href="/" className="btn">← 首页</a>
+        <a href="/insights" className="btn">Insights</a>
+        <a href="/search" className="btn">搜索</a>
       </div>
-      <h1 className="text-3xl font-bold">底层逻辑手册</h1>
-      <article className="mt-6 rounded-2xl border border-zinc-200 bg-white p-6 shadow-sm prose prose-zinc max-w-none">
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>{md}</ReactMarkdown>
-      </article>
+
+      <section className="card p-6">
+        <h1 className="text-3xl font-bold">底层逻辑手册</h1>
+        <article className="prose prose-zinc mt-6 max-w-none prose-headings:font-semibold prose-a:text-blue-700 prose-pre:overflow-x-auto">
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>{md}</ReactMarkdown>
+        </article>
+      </section>
     </main>
   );
 }
