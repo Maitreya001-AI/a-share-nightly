@@ -12,9 +12,8 @@ node scripts/collect.mjs "$DATE" "$TRADING_DATE"
 
 echo "[nightly_full] date=$DATE tradingDate=$TRADING_DATE"
 
-# 2) NOTE: composition step (LLM summarization) is done by OpenClaw agent.
-# The agent will read content/_raw/${DATE}.index.json and fetched article texts,
-# then write content/daily/${DATE}.md, content/insights/index.json, content/handbook.md.
+# 2) compose (offline-ish): fetch article texts via fetcher-router and write content files.
+node scripts/compose.mjs "$DATE" "$TRADING_DATE"
 
-# 3) indices/commit/push is intentionally NOT done here.
-# OpenClaw agent will compose content files first, then run `npm run nightly` at the end.
+# 3) indices/commit/push
+npm run nightly

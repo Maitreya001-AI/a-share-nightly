@@ -1,0 +1,75 @@
+{
+  "date": "2026-03-08",
+  "tradingDate": "2026-03-05",
+  "generatedAt": "2026-03-08T12:52:38.399Z",
+  "queries": [
+    {
+      "key": "market_recap",
+      "query": "A股 2026-03-05 复盘 涨停 跌停 连板 梯队 炸板率 成交额 板块 主线",
+      "urls": [
+        "https://www.xiaoyuzhoufm.com/podcast/6566b3c70500be931c2d6cfa",
+        "https://caifuhao.eastmoney.com/news/20260304223351942355050",
+        "https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxspk3197859.shtml?froms=ggmp",
+        "https://caifuhao.eastmoney.com/news/20260305215016388330470",
+        "https://www.cls.cn/detail/2293730",
+        "https://caifuhao.eastmoney.com/news/20260305152326879670650",
+        "https://caifuhao.eastmoney.com/news/20260305205908746208930",
+        "https://caifuhao.eastmoney.com/news/20260305155943905724460?from=guba&name=5rGJ57yG6IKh5Lu95ZCn&gubaurl=aHR0cHM6Ly9ndWJhLmVhc3Rtb25leS5jb20vbGlzdCwwMDI0OTguaHRtbA%3D%3D",
+        "https://www.jiuyangongshe.com/square_hot",
+        "https://caifuhao.eastmoney.com/news/20260303114535708687110?from=guba&name=5paw5ZKM5oiQ5ZCn&gubaurl=aHR0cHM6Ly9ndWJhLmVhc3Rtb25leS5jb20vbGlzdCwwMDIwMDEuaHRtbA%3D%3D"
+      ],
+      "file": "content/_raw/2026-03-05.market_recap.tavily.md"
+    },
+    {
+      "key": "ai_robot",
+      "query": "A股 AI应用 机器人 算力硬件 军工航天 涨价 有色 化工 新能源 医药 复盘 观点",
+      "urls": [
+        "https://www.xiaoyuzhoufm.com/podcast/6566b3c70500be931c2d6cfa",
+        "https://pdf.dfcfw.com/pdf/H3_AP202601151817048866_1.pdf?1768493747000.pdf",
+        "https://www.tgb.cn/a/2pRZy1hvM5r",
+        "https://www.cls.cn/detail/2299012",
+        "https://www.jiuyangongshe.com/a/113j943zns1",
+        "https://www.xincai.com/article/nhmiaek4672401",
+        "https://pdf.dfcfw.com/pdf/H3_AP202503031643806525_1.pdf",
+        "https://caifuhao.eastmoney.com/news/20260302171248173650780?from=guba&name=5Y2O55S15paw6IO95ZCn&gubaurl=aHR0cHM6Ly9ndWJhLmVhc3Rtb25leS5jb20vbGlzdCxzaDYwMDkzMC5odG1s",
+        "https://m.sohu.com/a/992455693_122014422?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+        "https://finance.sina.cn/tech/2026-03-04/detail-inhpvayi3403314.d.html?oid=WA%200859%203970%200884%20Pemborong%20Pasang%20Plafon%20Gypsum%20Bulat%20Minimalis%20Terpercaya%20Sragen%20Sragen&vt=4"
+      ],
+      "file": "content/_raw/2026-03-05.ai_robot.tavily.md"
+    },
+    {
+      "key": "microstructure",
+      "query": "A股 交易制度 异动 监管 价格笼子 程序化交易 量化 游资 影响 短线",
+      "urls": [
+        "https://m.36kr.com/p/2140792079485320",
+        "http://www.nbd.com.cn/rss/toutiao/articles/2680257.html",
+        "https://www.cls.cn/detail/1272183",
+        "http://www.csrc.gov.cn/ningxia/c104435/c7556824/7556824/files/%E9%99%84%E4%BB%B61%EF%BC%9A%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA%E7%A8%8B%E5%BA%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A%EF%BC%88%E8%AF%95%E8%A1%8C%EF%BC%89.pdf",
+        "https://www.stcn.com/article/detail/1089157.html",
+        "https://www.21jingji.com/article/20230410/herald/85e9946185ca03940f9ac3dcd59f1404.html",
+        "https://news.qq.com/rain/a/20230905A0056J00",
+        "http://www.21jingji.com/article/20211118/herald/dca902a51a9deb743141361e2b47ccda.html",
+        "https://finance.sina.cn/stock/ggyj/2023-02-20/detail-imyhiump2973748.d.html?vt=4",
+        "https://news.qq.com/rain/a/20250617A04G2900"
+      ],
+      "file": "content/_raw/2026-03-05.microstructure.tavily.md"
+    },
+    {
+      "key": "sentiment_cycle",
+      "query": "A股 情绪周期 赚钱效应 市场高度 龙头 退潮 冰点 底层逻辑",
+      "urls": [
+        "https://www.tgb.cn/a/2pqI4ifouR0-1",
+        "https://www.fupanwang.com/tag/%E6%83%85%E7%BB%AA%E5%91%A8%E6%9C%9F",
+        "https://www.jiuyangongshe.com/a/drn16rfm7e",
+        "http://mp.cnfol.com/50694/article/1738760438-141654418.html",
+        "https://xueqiu.com/7788201912/273831145",
+        "http://www.bilibili.com/read/cv30451489/",
+        "https://caifuhao.eastmoney.com/news/20260228132132142541200",
+        "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20250717195203711214020&postId=1572566462",
+        "https://cj.sina.cn/articles/view/7879922977/1d5ae1521019019qrg?froms=ggmp",
+        "https://caifuhao.eastmoney.com/news/20260206193957879370880"
+      ],
+      "file": "content/_raw/2026-03-05.sentiment_cycle.tavily.md"
+    }
+  ]
+}
