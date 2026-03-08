@@ -45,3 +45,15 @@
 - 本日新增的“可迁移观点/制度变化/资金结构线索”会先进入 insights（status=new）。
 - 你把某条的 status 改成 kept/digested，我再把它写进“固定章节”里。
 
+
+---
+## 2026-03-05 新增素材（待你筛选/消化）
+
+- 本日新增的“可迁移观点/制度变化/资金结构线索”会先进入 insights（status=new）。
+- 你把某条的 status 改成 kept/digested，我再把它写进“固定章节”里。
+
+- https://news.qq.com/rain/a/20250404Q023PD00｜https://news.qq.com/rain/a/20250404Q023PD00
+- 3月5日A股复盘_财富号_东方财富网｜https://caifuhao.eastmoney.com/news/20260305213059743346480
+- 3月5日A股收评：创业板冲高回落领涨，MicroLED全线爆发，成交再破2.4万_财富号_东方财富网｜https://caifuhao.eastmoney.com/news/20260305150514252119010
+- 【看盘】股票情绪周期与赚钱效应底层逻辑解析：持筹与持币转换、人气个股演变及龙头断板后的资金博弈方向探索｜https://www.55188.com/thread-19802177-1-1.html
+- 3.1-韭研公社｜https://www.jiuyangongshe.com/a/113j943zns1

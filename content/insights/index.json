@@ -1,5 +1,28 @@
 [
   {
+    "id": "d1b091e8d354",
+    "title": "3.1-韭研公社",
+    "url": "https://www.jiuyangongshe.com/a/113j943zns1",
+    "source": "ai_robot",
+    "summary": "作者利益披露：原创，不作为证券推荐或投资建议，截至发文时，作者不持有相关标的。\n声明：文章观点来自网友，仅为作者个人研究意见，不代表韭研公社观点及立场，站内所有文章均不构成投资建议，请投资者注意风险，独立审慎决策。",
+    "quotes": [
+      {
+        "text": "作者利益披露：原创，不作为证券推荐或投资建议，截至发文时，作者不持有相关标的。\n声明：文章观点来自网友，仅为作者个人研究意见，不代表韭研公社观点及立场，站内所有文章均不构成投资建议，请投资者注意风险，独立审慎决策。"
+      }
+    ],
+    "tags": [
+      "赛道"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-08T15:54:27.973Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "requests",
+      "status_code": 200,
+      "warnings": []
+    }
+  },
+  {
     "id": "c3a23f2b0ce6",
     "title": "涨价了！000636，包揽AI算力+CPO+商业航天+机器人+储能概念",
     "url": "https://www.stcn.com/article/detail/3655593.html",
@@ -15,7 +38,7 @@
       "媒体/制度"
     ],
     "status": "new",
-    "fetchedAt": "2026-03-08T15:08:13.949Z",
+    "fetchedAt": "2026-03-08T15:54:27.574Z",
     "fetch": {
       "ok": true,
       "strategy": "scrapling",
@@ -24,6 +47,230 @@
         "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
         "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
         "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "55f166d5cb70",
+    "title": "判断当前市场处于情绪周期的哪个阶段，核心是“看数据、看龙头、看亏钱效应”。情绪周_财富号_东方财富网",
+    "url": "https://caifuhao.eastmoney.com/news/20260228132132142541200",
+    "source": "sentiment_cycle",
+    "summary": "[$众泰汽车(SZ000980)$](https://quote.eastmoney.com/unify/r/0.000980)\n判断当前市场处于情绪周期的哪个阶段，核心是“看数据、看龙头、看亏钱效应”。情绪周期通常分为冰点、启动、发酵、高潮、退潮五个阶段，每个阶段都有明确的量化指标和盘面特征。\n1、冰点期（绝望中孕育）\n特征：市场极度悲观，连板高度被压制在3板以下，跌停家数远多于涨停家数，成交量极度萎缩。此时高位股容易出现“核按钮”（直接跌停）。\n策略：空仓等待。禁止抄底和接力高位股，唯一可做的是极小仓位试错新题材的首板。\n2、启动期（试错与分歧）\n特征：跌停家数减少至10家以内，开始出现3板以上的低位连板股，炸板率下降。新题材首板爆发，板块梯队初步形成。\n策略：轻仓试错（1-2成仓位）。聚焦新题材的首板，或寻找逆势抗跌后放量突破的“弱转强”标的。\n3、发酵期（主升与一致）\n特征：行情进入主升浪，龙头股明确（通常3板以上），板块梯队变得完整（首板、中位股、容量大票一应俱全）。成交量持续放大，赚钱效应扩散。\n策略：重仓龙头。最佳买点是在龙头股首次分歧（例如炸板后强势回封）时介入，享受主升浪。\n4、高潮期（狂热与加速）\n特征：市场陷入狂热，龙头股开始缩量加速涨停（甚至连续一字板），板块涨停家数超过50家，出现“闭眼赚钱”的效应。\n策略：逐步减仓，锁定利润。保留1-2成仓位博弈龙头首阴",
+    "quotes": [
+      {
+        "text": "[$众泰汽车(SZ000980)$](https://quote.eastmoney.com/unify/r/0.000980)\n判断当前市场处于情绪周期的哪个阶段，核心是“看数据、看龙头、看亏钱效应”。情绪周期通常分为冰点、启动、发酵、高潮、退潮五个阶段，每个阶段都有明确的量化指标和盘面特征。\n1、冰点期（绝望中孕育）\n特征：市场极度悲观，连板高度被压制在3板以下，跌停家数远多于涨停家数，成交量极度萎缩。此时高位股容易出现“核按钮”（…"
+      }
+    ],
+    "tags": [
+      "情绪周期",
+      "东方财富"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-08T15:54:26.546Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "a7d3eff7a409",
+    "title": "https://shengxinai.com/archives/qi-li-lun-de-tou-zi-he-cao-zuo-tan-suo",
+    "url": "https://shengxinai.com/archives/qi-li-lun-de-tou-zi-he-cao-zuo-tan-suo",
+    "source": "sentiment_cycle",
+    "summary": "",
+    "quotes": [],
+    "tags": [
+      "情绪周期"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-08T15:54:25.738Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "0340ffc0b19c",
+    "title": "【看盘】股票情绪周期与赚钱效应底层逻辑解析：持筹与持币转换、人气个股演变及龙头断板后的资金博弈方向探索",
+    "url": "https://www.55188.com/thread-19802177-1-1.html",
+    "source": "sentiment_cycle",
+    "summary": "1、[情绪周期](tag-56809.html)其实是[赚钱效应](tag-11755.html)与[亏钱效应](tag-1106981.html)的周期循环，其本质的底层逻辑是持筹与持币的转换。当涨停家数非常多的时候，说明短线进入高潮，短线选手从持币转为持股，若市场无增量资金进场，涨停家数会逐渐减少，是短线资金逐步流出的过程，也是[亏钱效应](tag-1106981.html)释放的过程，短线选手从持股转为持币，潜在的做多资金会越来越多；[理想论坛]\n2、上波的人气个股龙回头或反抽的本质是下波[赚钱效应](tag-11755.html)来临新的人气个股在助推老龙，有人做新龙，有人做老龙，新的人气个股断板日，龙回头反抽结束，要离场；\n3、龙头断板后演变的3个方向：第一电梯式退潮，高度连续压缩；第二阶梯式退潮；第三情绪无缝衔接；横盘穿越；其短线资金会有3个方向，部分博弈龙头反包、部分选择做补涨、部分会选择试错新题材做切换，此时题材会轮动；",
+    "quotes": [
+      {
+        "text": "1、[情绪周期](tag-56809.html)其实是[赚钱效应](tag-11755.html)与[亏钱效应](tag-1106981.html)的周期循环，其本质的底层逻辑是持筹与持币的转换。当涨停家数非常多的时候，说明短线进入高潮，短线选手从持币转为持股，若市场无增量资金进场，涨停家数会逐渐减少，是短线资金逐步流出的过程，也是[亏钱效应](tag-1106981.html)释放的过程，短线选手从持股转为持币，潜在的做多资金会越来越…"
+      }
+    ],
+    "tags": [
+      "情绪周期"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-08T15:54:23.509Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "requests",
+      "status_code": 200,
+      "warnings": []
+    }
+  },
+  {
+    "id": "042cfd6f5eab",
+    "title": "3月5日A股收评：创业板冲高回落领涨，MicroLED全线爆发，成交再破2.4万_财富号_东方财富网",
+    "url": "https://caifuhao.eastmoney.com/news/20260305150514252119010",
+    "source": "market_recap",
+    "summary": "3月5日A股收评：创业板冲高回落领涨，MicroLED全线爆发，成交再破2.4万亿\n3月5日，A股三大指数全天呈现冲高回落走势，最终集体收涨，成长风格相对占优。截至收盘，沪指涨0.64%，深成指涨1.23%，创业板指涨1.66%，市场交投保持活跃，沪深京三市合计成交额达2.41万亿元。\n盘面热点鲜明，MicroLED概念成为全天最强主线，板块内亚世光电、华灿光电、国星光电等逾20只个股批量涨停，资金聚焦度极高。电网设备板块延续强势，汉缆股份、顺钠股份、积成电子斩获2连板，板块热度持续升温。CPO概念同步走强，汇绿生态涨停，凯格精机涨超10%并刷新股价新高。\n下跌板块方面，农业股集体回调，荃银高科跌停，神农种业等多股跌幅超10%，成为盘面主要调整方向。个股整体涨多跌少，沪深京三市约4100只个股飘红，市场赚钱效应整体回暖。\n整体来看，市场呈现结构性轮动特征，科技硬件与电力设备方向资金认可度较高，农业等板块短期承压，指数震荡中仍以板块快速轮动为主。\n[$洲际油气(SH600759)$](https://quote.eastmoney.com/unify/r/1.600759) [$岩山科技(SZ002195)$](https://quote.eastmoney.com/unify/r/0.002195) [$中国西电(SH601179)$](https://quote.eastmone",
+    "quotes": [
+      {
+        "text": "3月5日A股收评：创业板冲高回落领涨，MicroLED全线爆发，成交再破2.4万亿\n3月5日，A股三大指数全天呈现冲高回落走势，最终集体收涨，成长风格相对占优。截至收盘，沪指涨0.64%，深成指涨1.23%，创业板指涨1.66%，市场交投保持活跃，沪深京三市合计成交额达2.41万亿元。\n盘面热点鲜明，MicroLED概念成为全天最强主线，板块内亚世光电、华灿光电、国星光电等逾20只个股批量涨停，资金聚焦度极高。电网设备板块延续强势，汉缆…"
+      }
+    ],
+    "tags": [
+      "每日复盘",
+      "东方财富"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-08T15:54:22.938Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "d1eb309382cc",
+    "title": "3月5日A股复盘_财富号_东方财富网",
+    "url": "https://caifuhao.eastmoney.com/news/20260305213059743346480",
+    "source": "market_recap",
+    "summary": "[$雪人集团(SZ002639)$](https://quote.eastmoney.com/unify/r/0.002639)[$金风科技(SZ002202)$](https://quote.eastmoney.com/unify/r/0.002202)[$均胜电子(SH600699)$](https://quote.eastmoney.com/unify/r/1.600699)今日A股普涨修复，成交额2.39万亿维持高位，科技成长赛道领涨。市场情绪显著回暖，个股涨多跌少，情绪指数回升，投资者信心修复。两会政策催化科技主线，资金从防御板块转向高弹性成长股，结构性机会凸显。\n**风控注意：**\n警惕科技板块短期涨幅过高回调，不追高，严控仓位，规避跟风炒作。\n**市场观点：**\n市场回暖但需保持理性，政策驱动下聚焦核心赛道，风控为先，不盲目亢奋，才能把握长期机会。\n**入市有风险，投资需谨慎。以上信息仅为参考，不构成投资建议。 #收盘点评##社区牛人计划#**\n[# 收盘点评#](https://gubatopic.eastmoney.com/topic_v3.html?htid=8088)\n作者声明：个人观点，仅供参考\n**郑重声明：** 用户在社区发表的所有信息将由本网站记录保存，仅代表作者个人观点，与本网站立场无关，不对您构成任何投资建议，据此操作风险自担。**请勿相信代客理财",
+    "quotes": [
+      {
+        "text": "[$雪人集团(SZ002639)$](https://quote.eastmoney.com/unify/r/0.002639)[$金风科技(SZ002202)$](https://quote.eastmoney.com/unify/r/0.002202)[$均胜电子(SH600699)$](https://quote.eastmoney.com/unify/r/1.600699)今日A股普涨修复，成交额2.39万亿维持高位，科技成长赛…"
+      }
+    ],
+    "tags": [
+      "每日复盘",
+      "东方财富"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-08T15:54:15.128Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "99254ab0cb6d",
+    "title": "@2.13亿股民！股票交易规则这五大变化须知，新规今天实施？还有多个认识误区要避开",
+    "url": "https://www.cls.cn/detail/1272183",
+    "source": "microstructure",
+    "summary": "**财联社2月20日讯（记者 高艳云）** 全面注册制落地之后，新交易规则成为重点讨论领域，也是券商投顾在在朋友圈中分享最多的内容。\n全面梳理交易规则，可见全面注册制下的主板交易规则主要有五大变化。\n> 一是停牌新规出台，以及新股上市交易涨跌停机制生变。包括股票10天内发生4次异动公告等三种情形出现其一则停牌；上市后的前5个交易日不设涨跌幅限制，无涨跌幅限制股票盘中涨幅超30%、60%的单次停牌10分钟。\n> 二是价格笼子机制，即买入（卖出）申报价格不得高于（低于）买入（卖出）基准价格的102%（98%）和买入（卖出）基准价格以上十个申报价格最小变动单位的孰高值。\n> 三是主板盘后定价交易与优化两融交易，上市股票首个交易日起可作为两融标的，引入盘后交易满足确定性价格成交需求。\n> 四是完善主板交易信息公开规定，对异常波动有明确规定，增加严重异常波动等相关规定和定义。\n> 五是优化证券交易监督相关规定，新增“程序化交易影响系统安全或正常交易秩序”的异常交易行为等。\n这其中，“2%的价格笼子”作为主板新的交易机制备受市场关注，据记者向交易所人士了解，这基本是向主板平移了科创板的相关交易规则，在这一交易制度约束下，目前科创板基本没有天地板，可见其对交易的约束性，即投资者不可能再凭一张单子直接将价格打到涨停板。当前市场误读的是，2%对应的是现价，事实对应的是基准价。\n对此有网友调侃说，难再",
+    "quotes": [
+      {
+        "text": "**财联社2月20日讯（记者 高艳云）** 全面注册制落地之后，新交易规则成为重点讨论领域，也是券商投顾在在朋友圈中分享最多的内容。\n全面梳理交易规则，可见全面注册制下的主板交易规则主要有五大变化。\n> 一是停牌新规出台，以及新股上市交易涨跌停机制生变。包括股票10天内发生4次异动公告等三种情形出现其一则停牌；上市后的前5个交易日不设涨跌幅限制，无涨跌幅限制股票盘中涨幅超30%、60%的单次停牌10分钟。\n> 二是价格笼子机制，即买入（…"
+      }
+    ],
+    "tags": [
+      "制度与微观结构"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-08T15:54:14.352Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "9713173586cd",
+    "title": "https://xueqiu.com/4026867340/294772279",
+    "url": "https://xueqiu.com/4026867340/294772279",
+    "source": "microstructure",
+    "summary": "{\"_waf_bd8ce2ce37\":\"yojVfSEpa39GFo7z+jou0+PuMqUdSENLTVjnEkNzXss=\"}",
+    "quotes": [
+      {
+        "text": "{\"_waf_bd8ce2ce37\":\"yojVfSEpa39GFo7z+jou0+PuMqUdSENLTVjnEkNzXss=\"}"
+      }
+    ],
+    "tags": [
+      "制度与微观结构",
+      "雪球"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-08T15:54:13.405Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "requests",
+      "status_code": 200,
+      "warnings": []
+    }
+  },
+  {
+    "id": "42133859c494",
+    "title": "注册制背景下，游资打板空间收窄，量化策略中的高频交易或受冲击",
+    "url": "http://www.nbd.com.cn/rss/toutiao/articles/2680257.html",
+    "source": "microstructure",
+    "summary": "全面注册制新规下的主板交易规则明显变化，其中“价格笼子”机制近期在游资圈引发热议。\n值得注意的是，游资打板空间收窄，短线生态生变，那么对于量化策略中的高频交易影响又如何呢？《每日经济新闻》采访了数位量化私募人士。\n## 打板空间收窄，短线生态生变?\n全面注册制新规下，“价格笼子”机制出台，资金再难打“天地板”。市价申报方面，新增连续竟价阶段限价申报的“价格笼子”机制，连续竟价阶段2%为有效申报价格范围，同时增设了“十个申报价格最小变动单位”的安排。注册制对短线生态产生了明显的影响，从近期市场表现来看，A股连板票较之前大幅减少，而对于一些核心大票却开始走趋势行情。\n注册制的“价格笼子”机制对短线生态的影响明显，往涨停板上“扫货”和往跌停板上“出货”将成为废单，以后要“吃货”或“出货”申报价格不得高于或低于基准价格的2%，这就**对游资的出货水平产生了极高的要求。** 另外，主板股票异常交易实时监控细则，对交易挂单等细节的关注和变化也对市场短线生态产生明显的影响，尤其是对那些日内做T+0交易的投资者，**增加了从股价大涨大跌中获利的难度。**\n“价格笼子”机制一旦实施，散户谁还敢去打板？一旦散户主力游资不去打板，量化也就失去了对手盘，这**对超短打板的生态会产生影响。**\n值得一提的是，市场内大部分的游资是从事“涨停板”的打板交易策略，随着对异常交易行为的进一步管控，打板的交易成本和难",
+    "quotes": [
+      {
+        "text": "全面注册制新规下的主板交易规则明显变化，其中“价格笼子”机制近期在游资圈引发热议。\n值得注意的是，游资打板空间收窄，短线生态生变，那么对于量化策略中的高频交易影响又如何呢？《每日经济新闻》采访了数位量化私募人士。\n## 打板空间收窄，短线生态生变?\n全面注册制新规下，“价格笼子”机制出台，资金再难打“天地板”。市价申报方面，新增连续竟价阶段限价申报的“价格笼子”机制，连续竟价阶段2%为有效申报价格范围，同时增设了“十个申报价格最小变动单…"
+      }
+    ],
+    "tags": [
+      "制度与微观结构",
+      "媒体/制度"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-08T15:54:12.865Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "requests",
+      "status_code": 200,
+      "warnings": []
+    }
+  },
+  {
+    "id": "42663acd5ead",
+    "title": "https://news.qq.com/rain/a/20250404Q023PD00",
+    "url": "https://news.qq.com/rain/a/20250404Q023PD00",
+    "source": "microstructure",
+    "summary": "",
+    "quotes": [],
+    "tags": [
+      "制度与微观结构"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-08T15:54:12.575Z",
+    "fetch": {
+      "ok": false,
+      "warnings": [
+        "Error: Command failed: bash -lc source /Users/xrensiu/.openclaw/workspace/.venv/bin/activate && python /Users/xrensiu/.openclaw/shared-skills/fetcher-router/fetch_url.py \"https://news.qq.com/rain/a/20250404Q023PD00\" --json\n/Users/xrensiu/.openclaw/workspace/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\n"
       ]
     }
   },
@@ -56,34 +303,6 @@
     }
   },
   {
-    "id": "55f166d5cb70",
-    "title": "判断当前市场处于情绪周期的哪个阶段，核心是“看数据、看龙头、看亏钱效应”。情绪周_财富号_东方财富网",
-    "url": "https://caifuhao.eastmoney.com/news/20260228132132142541200",
-    "source": "sentiment_cycle",
-    "summary": "[$众泰汽车(SZ000980)$](https://quote.eastmoney.com/unify/r/0.000980)\n判断当前市场处于情绪周期的哪个阶段，核心是“看数据、看龙头、看亏钱效应”。情绪周期通常分为冰点、启动、发酵、高潮、退潮五个阶段，每个阶段都有明确的量化指标和盘面特征。\n1、冰点期（绝望中孕育）\n特征：市场极度悲观，连板高度被压制在3板以下，跌停家数远多于涨停家数，成交量极度萎缩。此时高位股容易出现“核按钮”（直接跌停）。\n策略：空仓等待。禁止抄底和接力高位股，唯一可做的是极小仓位试错新题材的首板。\n2、启动期（试错与分歧）\n特征：跌停家数减少至10家以内，开始出现3板以上的低位连板股，炸板率下降。新题材首板爆发，板块梯队初步形成。\n策略：轻仓试错（1-2成仓位）。聚焦新题材的首板，或寻找逆势抗跌后放量突破的“弱转强”标的。\n3、发酵期（主升与一致）\n特征：行情进入主升浪，龙头股明确（通常3板以上），板块梯队变得完整（首板、中位股、容量大票一应俱全）。成交量持续放大，赚钱效应扩散。\n策略：重仓龙头。最佳买点是在龙头股首次分歧（例如炸板后强势回封）时介入，享受主升浪。\n4、高潮期（狂热与加速）\n特征：市场陷入狂热，龙头股开始缩量加速涨停（甚至连续一字板），板块涨停家数超过50家，出现“闭眼赚钱”的效应。\n策略：逐步减仓，锁定利润。保留1-2成仓位博弈龙头首阴",
-    "quotes": [
-      {
-        "text": "[$众泰汽车(SZ000980)$](https://quote.eastmoney.com/unify/r/0.000980)\n判断当前市场处于情绪周期的哪个阶段，核心是“看数据、看龙头、看亏钱效应”。情绪周期通常分为冰点、启动、发酵、高潮、退潮五个阶段，每个阶段都有明确的量化指标和盘面特征。\n1、冰点期（绝望中孕育）\n特征：市场极度悲观，连板高度被压制在3板以下，跌停家数远多于涨停家数，成交量极度萎缩。此时高位股容易出现“核按钮”（…"
-      }
-    ],
-    "tags": [
-      "情绪周期",
-      "东方财富"
-    ],
-    "status": "new",
-    "fetchedAt": "2026-03-08T15:08:12.143Z",
-    "fetch": {
-      "ok": true,
-      "strategy": "scrapling",
-      "status_code": 200,
-      "warnings": [
-        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
-        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
-        "scrapling returned empty html"
-      ]
-    }
-  },
-  {
     "id": "e8be05afb980",
     "title": "关于股市情绪周期的深入思考(春节干货贴一)_恨一个人就让他炒股_ 淘股吧",
     "url": "https://www.tgb.cn/a/2pqI4ifouR0-1",
@@ -100,29 +319,6 @@
     ],
     "status": "new",
     "fetchedAt": "2026-03-08T15:08:11.423Z",
-    "fetch": {
-      "ok": true,
-      "strategy": "scrapling",
-      "status_code": 200,
-      "warnings": [
-        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
-        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
-        "scrapling returned empty html"
-      ]
-    }
-  },
-  {
-    "id": "a7d3eff7a409",
-    "title": "https://shengxinai.com/archives/qi-li-lun-de-tou-zi-he-cao-zuo-tan-suo",
-    "url": "https://shengxinai.com/archives/qi-li-lun-de-tou-zi-he-cao-zuo-tan-suo",
-    "source": "sentiment_cycle",
-    "summary": "",
-    "quotes": [],
-    "tags": [
-      "情绪周期"
-    ],
-    "status": "new",
-    "fetchedAt": "2026-03-08T15:08:10.545Z",
     "fetch": {
       "ok": true,
       "strategy": "scrapling",
@@ -201,81 +397,6 @@
     ],
     "status": "new",
     "fetchedAt": "2026-03-08T15:08:00.871Z",
-    "fetch": {
-      "ok": true,
-      "strategy": "requests",
-      "status_code": 200,
-      "warnings": []
-    }
-  },
-  {
-    "id": "99254ab0cb6d",
-    "title": "@2.13亿股民！股票交易规则这五大变化须知，新规今天实施？还有多个认识误区要避开",
-    "url": "https://www.cls.cn/detail/1272183",
-    "source": "microstructure",
-    "summary": "**财联社2月20日讯（记者 高艳云）** 全面注册制落地之后，新交易规则成为重点讨论领域，也是券商投顾在在朋友圈中分享最多的内容。\n全面梳理交易规则，可见全面注册制下的主板交易规则主要有五大变化。\n> 一是停牌新规出台，以及新股上市交易涨跌停机制生变。包括股票10天内发生4次异动公告等三种情形出现其一则停牌；上市后的前5个交易日不设涨跌幅限制，无涨跌幅限制股票盘中涨幅超30%、60%的单次停牌10分钟。\n> 二是价格笼子机制，即买入（卖出）申报价格不得高于（低于）买入（卖出）基准价格的102%（98%）和买入（卖出）基准价格以上十个申报价格最小变动单位的孰高值。\n> 三是主板盘后定价交易与优化两融交易，上市股票首个交易日起可作为两融标的，引入盘后交易满足确定性价格成交需求。\n> 四是完善主板交易信息公开规定，对异常波动有明确规定，增加严重异常波动等相关规定和定义。\n> 五是优化证券交易监督相关规定，新增“程序化交易影响系统安全或正常交易秩序”的异常交易行为等。\n这其中，“2%的价格笼子”作为主板新的交易机制备受市场关注，据记者向交易所人士了解，这基本是向主板平移了科创板的相关交易规则，在这一交易制度约束下，目前科创板基本没有天地板，可见其对交易的约束性，即投资者不可能再凭一张单子直接将价格打到涨停板。当前市场误读的是，2%对应的是现价，事实对应的是基准价。\n对此有网友调侃说，难再",
-    "quotes": [
-      {
-        "text": "**财联社2月20日讯（记者 高艳云）** 全面注册制落地之后，新交易规则成为重点讨论领域，也是券商投顾在在朋友圈中分享最多的内容。\n全面梳理交易规则，可见全面注册制下的主板交易规则主要有五大变化。\n> 一是停牌新规出台，以及新股上市交易涨跌停机制生变。包括股票10天内发生4次异动公告等三种情形出现其一则停牌；上市后的前5个交易日不设涨跌幅限制，无涨跌幅限制股票盘中涨幅超30%、60%的单次停牌10分钟。\n> 二是价格笼子机制，即买入（…"
-      }
-    ],
-    "tags": [
-      "制度与微观结构"
-    ],
-    "status": "new",
-    "fetchedAt": "2026-03-08T15:08:00.641Z",
-    "fetch": {
-      "ok": true,
-      "strategy": "scrapling",
-      "status_code": 200,
-      "warnings": [
-        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
-        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
-        "scrapling returned empty html"
-      ]
-    }
-  },
-  {
-    "id": "9713173586cd",
-    "title": "https://xueqiu.com/4026867340/294772279",
-    "url": "https://xueqiu.com/4026867340/294772279",
-    "source": "microstructure",
-    "summary": "{\"_waf_bd8ce2ce37\":\"7GxVZesWqGteT1IUH4dHRZMuvJAW98JTFekRkbinCao=\"}",
-    "quotes": [
-      {
-        "text": "{\"_waf_bd8ce2ce37\":\"7GxVZesWqGteT1IUH4dHRZMuvJAW98JTFekRkbinCao=\"}"
-      }
-    ],
-    "tags": [
-      "制度与微观结构",
-      "雪球"
-    ],
-    "status": "new",
-    "fetchedAt": "2026-03-08T15:07:59.764Z",
-    "fetch": {
-      "ok": true,
-      "strategy": "requests",
-      "status_code": 200,
-      "warnings": []
-    }
-  },
-  {
-    "id": "42133859c494",
-    "title": "注册制背景下，游资打板空间收窄，量化策略中的高频交易或受冲击",
-    "url": "http://www.nbd.com.cn/rss/toutiao/articles/2680257.html",
-    "source": "microstructure",
-    "summary": "全面注册制新规下的主板交易规则明显变化，其中“价格笼子”机制近期在游资圈引发热议。\n值得注意的是，游资打板空间收窄，短线生态生变，那么对于量化策略中的高频交易影响又如何呢？《每日经济新闻》采访了数位量化私募人士。\n## 打板空间收窄，短线生态生变?\n全面注册制新规下，“价格笼子”机制出台，资金再难打“天地板”。市价申报方面，新增连续竟价阶段限价申报的“价格笼子”机制，连续竟价阶段2%为有效申报价格范围，同时增设了“十个申报价格最小变动单位”的安排。注册制对短线生态产生了明显的影响，从近期市场表现来看，A股连板票较之前大幅减少，而对于一些核心大票却开始走趋势行情。\n注册制的“价格笼子”机制对短线生态的影响明显，往涨停板上“扫货”和往跌停板上“出货”将成为废单，以后要“吃货”或“出货”申报价格不得高于或低于基准价格的2%，这就**对游资的出货水平产生了极高的要求。** 另外，主板股票异常交易实时监控细则，对交易挂单等细节的关注和变化也对市场短线生态产生明显的影响，尤其是对那些日内做T+0交易的投资者，**增加了从股价大涨大跌中获利的难度。**\n“价格笼子”机制一旦实施，散户谁还敢去打板？一旦散户主力游资不去打板，量化也就失去了对手盘，这**对超短打板的生态会产生影响。**\n值得一提的是，市场内大部分的游资是从事“涨停板”的打板交易策略，随着对异常交易行为的进一步管控，打板的交易成本和难",
-    "quotes": [
-      {
-        "text": "全面注册制新规下的主板交易规则明显变化，其中“价格笼子”机制近期在游资圈引发热议。\n值得注意的是，游资打板空间收窄，短线生态生变，那么对于量化策略中的高频交易影响又如何呢？《每日经济新闻》采访了数位量化私募人士。\n## 打板空间收窄，短线生态生变?\n全面注册制新规下，“价格笼子”机制出台，资金再难打“天地板”。市价申报方面，新增连续竟价阶段限价申报的“价格笼子”机制，连续竟价阶段2%为有效申报价格范围，同时增设了“十个申报价格最小变动单…"
-      }
-    ],
-    "tags": [
-      "制度与微观结构",
-      "媒体/制度"
-    ],
-    "status": "new",
-    "fetchedAt": "2026-03-08T15:07:59.189Z",
     "fetch": {
       "ok": true,
       "strategy": "requests",

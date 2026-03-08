@@ -1,22 +1,22 @@
 {
   "date": "2026-03-08",
   "tradingDate": "2026-03-05",
-  "generatedAt": "2026-03-08T15:00:12.315Z",
+  "generatedAt": "2026-03-08T15:54:12.280Z",
   "queries": [
     {
       "key": "market_recap",
       "query": "A股 2026-03-05 复盘 涨停 跌停 连板 梯队 炸板率 成交额 板块 主线",
       "urls": [
-        "https://www.fupanwang.com/",
-        "https://img3.gelonghui.com/pdf/33dde-21366a86-9b23-48da-9d38-84bac6fcfefc.pdf",
-        "https://caifuhao.eastmoney.com/news/20260305215016388330470?from=guba&name=5LiW5ZiJ56eR5oqA5ZCn&gubaurl=aHR0cDovL2d1YmFwb3N0LmVhc3Rtb25leS5jb20vbGlzdCwwMDI3OTYuaHRtbA%3D%3D",
-        "https://caifuhao.eastmoney.com/news/20260305215016388330470",
-        "https://k.sina.com.cn/article_7857201856_1d45362c001902vo84.html",
         "https://caifuhao.eastmoney.com/news/20260305213059743346480",
+        "https://img3.gelonghui.com/pdf/33dde-21366a86-9b23-48da-9d38-84bac6fcfefc.pdf",
+        "https://caifuhao.eastmoney.com/news/20260305150514252119010",
+        "https://caifuhao.eastmoney.com/news/20260305215016388330470",
+        "http://caifuhao.eastmoney.com/news/20260305215016388330470?from=guba&name=5LiW5ZiJ56eR5oqA5ZCn&gubaurl=aHR0cDovL2d1YmFwb3N0LmVhc3Rtb25leS5jb20vbGlzdCwwMDI3OTYuaHRtbA%3D%3D",
+        "https://caifuhao.eastmoney.com/news/20260305151612458666240",
+        "https://finance.sina.com.cn/jjxw/2026-03-05/doc-inhpxspk3197859.shtml?froms=ggmp",
         "https://caifuhao.eastmoney.com/news/20260305194253650982980",
-        "https://k.sina.com.cn/article_7857201856_1d45362c001902vo14.html",
-        "https://www.stcn.com/article/detail/3663804.html",
-        "https://caifuhao.eastmoney.com/news/20260306025206972622480?from=guba&name=6ZW%2F55uI6YCa5ZCn&gubaurl=aHR0cHM6Ly9ndWJhLmVhc3Rtb25leS5jb20vbGlzdCw2ODgxNDMuaHRtbA%3D%3D"
+        "https://caifuhao.eastmoney.com/news/20260305205908746208930",
+        "https://k.sina.com.cn/article_7857201856_1d45362c001902vo14.html"
       ],
       "file": "content/_raw/2026-03-05.market_recap.tavily.md"
     },
@@ -24,16 +24,16 @@
       "key": "ai_robot",
       "query": "A股 AI应用 机器人 算力硬件 军工航天 涨价 有色 化工 新能源 医药 复盘 观点",
       "urls": [
-        "https://www.tgb.cn/a/2pRZy1hvM5r",
         "https://www.stcn.com/article/detail/3655593.html",
         "https://www.jiuyangongshe.com/a/113j943zns1",
-        "https://guba.eastmoney.com/news,usumh,1642647977.html",
         "https://pdf.dfcfw.com/pdf/H3_AP202601151817048866_1.pdf?1768493747000.pdf",
-        "https://news.qq.com/rain/a/20250730A0062D00",
-        "https://www.21jingji.com/article/20260224/herald/d91bfb9bb8d2534424009919f22f2a9a.html",
-        "https://m.bjnews.com.cn/detail/1770696716168391.html",
+        "https://www.sfccn.com/2026/2-24/1MMDE0MDRfMjEwOTU1MA.html",
+        "https://www.cs.com.cn/5g/",
         "https://www.cls.cn/detail/2299012",
-        "https://pdf.dfcfw.com/pdf/H3_AP202502161643147134_1.pdf"
+        "https://www.9fzt.com/9fztgw_1_top/60ed1d1637f28bf6df1e04f22a313b8d.html",
+        "https://www.cs.com.cn/tzjj/jjdt/202602/t20260209_6537342.html",
+        "https://caifuhao.eastmoney.com/news/20260108092844067488040?from=guba&name=5ZiJ5LqL5aCC5ZCn&gubaurl=aHR0cHM6Ly9ndWJhLmVhc3Rtb25leS5jb20vbGlzdCwwMDI0NjIuaHRtbA==",
+        "https://www.sznews.com/news/content/2026-01/15/content_31904560.htm"
       ],
       "file": "content/_raw/2026-03-05.ai_robot.tavily.md"
     },
@@ -41,16 +41,16 @@
       "key": "microstructure",
       "query": "A股 交易制度 异动 监管 价格笼子 程序化交易 量化 游资 影响 短线",
       "urls": [
+        "https://news.qq.com/rain/a/20250404Q023PD00",
         "http://www.nbd.com.cn/rss/toutiao/articles/2680257.html",
         "https://xueqiu.com/4026867340/294772279",
         "https://www.cls.cn/detail/1272183",
+        "https://blog.csdn.net/caiair/article/details/148486411",
         "https://news.qq.com/rain/a/20230905A0056J00",
         "https://finance.sina.cn/stock/ggyj/2023-02-20/detail-imyhiump2973748.d.html?vt=4",
         "https://m.36kr.com/p/2140792079485320",
-        "https://news.qq.com/rain/a/20250617A04G2900",
-        "https://www.stcn.com/article/detail/1089157.html",
-        "https://www.21jingji.com/article/20230410/herald/85e9946185ca03940f9ac3dcd59f1404.html",
-        "http://www.csrc.gov.cn/ningxia/c104435/c7556824/7556824/files/%E9%99%84%E4%BB%B61%EF%BC%9A%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA%E7%A8%8B%E5%BA%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A%EF%BC%88%E8%AF%95%E8%A1%8C%EF%BC%89.pdf"
+        "https://finance.sina.com.cn/jjxw/2026-03-03/doc-inhpspmp4088903.shtml?cre=tianyi&mod=pchp&loc=18&r=0&rfunc=58&tj=cxvertical_pc_hp&tr=12",
+        "https://www.stcn.com/article/detail/3658654.html"
       ],
       "file": "content/_raw/2026-03-05.microstructure.tavily.md"
     },
@@ -58,16 +58,16 @@
       "key": "sentiment_cycle",
       "query": "A股 情绪周期 赚钱效应 市场高度 龙头 退潮 冰点 底层逻辑",
       "urls": [
+        "https://www.55188.com/thread-19802177-1-1.html",
         "https://shengxinai.com/archives/qi-li-lun-de-tou-zi-he-cao-zuo-tan-suo",
-        "https://www.tgb.cn/a/2pqI4ifouR0-1",
         "https://caifuhao.eastmoney.com/news/20260228132132142541200",
+        "https://xueqiu.com/7865545150/250750620",
+        "https://www.jiuyangongshe.com/a/drn16rfm7e",
         "https://xueqiu.com/7788201912/273831145",
-        "https://www.toutiao.com/article/7486306644067942950/",
-        "http://www.bilibili.com/read/cv30451489/",
         "https://caifuhao.eastmoney.com/news/20260206193957879370880",
         "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20250717195203711214020&postId=1572566462",
-        "https://www.fupanwang.com/tag/%E6%83%85%E7%BB%AA%E5%91%A8%E6%9C%9F",
-        "https://cj.sina.cn/articles/view/7879922977/1d5ae1521019019qrg?froms=ggmp"
+        "https://caifuhao.eastmoney.com/news/20250916112300726855700",
+        "https://www.fupanwang.com/tag/%E6%83%85%E7%BB%AA%E5%91%A8%E6%9C%9F"
       ],
       "file": "content/_raw/2026-03-05.sentiment_cycle.tavily.md"
     }
