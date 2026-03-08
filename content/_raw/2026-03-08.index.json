@@ -1,0 +1,74 @@
+{
+  "date": "2026-03-08",
+  "generatedAt": "2026-03-08T11:52:37.033Z",
+  "queries": [
+    {
+      "key": "market_recap",
+      "query": "A股 2026-03-08 复盘 涨停 跌停 连板 梯队 炸板率 成交额 板块 主线",
+      "urls": [
+        "https://cj.sina.cn/articles/view/2000961721/774440b9020017dzo?from=finance",
+        "https://img3.gelonghui.com/pdf/33dde-21366a86-9b23-48da-9d38-84bac6fcfefc.pdf",
+        "https://guorn.com/forum/post/p.3051518.352374871015197",
+        "https://hk.stockstar.com/",
+        "https://www.jiuyangongshe.com/square_hot",
+        "https://tags.sina.com.cn/autotech_qichelingbujian",
+        "https://tags.sina.com.cn/brand_xiandai",
+        "https://tags.sina.com.cn/model_qingnengyuan",
+        "https://tags.sina.com.cn/autotech_linsuantieli",
+        "http://www.china.com.cn/node_7235570.htm"
+      ],
+      "file": "content/_raw/2026-03-08.market_recap.tavily.md"
+    },
+    {
+      "key": "ai_robot",
+      "query": "A股 AI应用 机器人 算力硬件 军工航天 涨价 有色 化工 新能源 医药 复盘 观点",
+      "urls": [
+        "https://www.xiaoyuzhoufm.com/podcast/6566b3c70500be931c2d6cfa",
+        "https://pdf.dfcfw.com/pdf/H3_AP202601151817048866_1.pdf?1768493747000.pdf",
+        "https://www.tgb.cn/a/2pRZy1hvM5r",
+        "https://www.cls.cn/detail/2299012",
+        "https://finance.sina.com.cn/money/fund/etf/2026-01-19/doc-inhhvwpr1151933.shtml",
+        "https://www.sohu.com/a/977780509_114984",
+        "https://m.bjnews.com.cn/detail/1770696716168391.html",
+        "https://www.stcn.com/article/detail/3655593.html",
+        "https://pdf.dfcfw.com/pdf/H3_AP202502241643424178_1.pdf?1740385663000.pdf",
+        "https://caifuhao.eastmoney.com/news/20260302171143295883450?from=guba&name=6Zu356eR6Ziy5Yqh5ZCn&gubaurl=aHR0cHM6Ly9ndWJhLmVhc3Rtb25leS5jb20vbGlzdCwwMDI0MTMuaHRtbA%3D%3D"
+      ],
+      "file": "content/_raw/2026-03-08.ai_robot.tavily.md"
+    },
+    {
+      "key": "microstructure",
+      "query": "A股 交易制度 异动 监管 价格笼子 程序化交易 量化 游资 影响 短线",
+      "urls": [
+        "http://www.nbd.com.cn/rss/toutiao/articles/2680257.html",
+        "https://www.cls.cn/detail/1272183",
+        "http://www.csrc.gov.cn/ningxia/c104435/c7556824/7556824/files/%E9%99%84%E4%BB%B61%EF%BC%9A%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA%E7%A8%8B%E5%BA%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%AE%A1%E7%90%86%E8%A7%84%E5%AE%9A%EF%BC%88%E8%AF%95%E8%A1%8C%EF%BC%89.pdf",
+        "http://www.news.cn/20250407/f02746dd4fd64f9bb8b0c41194bc71f4/c.html",
+        "https://www.stcn.com/article/detail/1089157.html",
+        "https://finance.sina.com.cn/jjxw/2026-03-03/doc-inhpspmp4088903.shtml?cre=tianyi&mod=pchp&loc=12&r=0&rfunc=81&tj=cxvertical_pc_hp&tr=12",
+        "http://www.21jingji.com/article/20211118/herald/dca902a51a9deb743141361e2b47ccda.html",
+        "https://finance.sina.cn/stock/ggyj/2023-02-20/detail-imyhiump2973748.d.html?vt=4",
+        "https://news.qq.com/rain/a/20250617A04G2900",
+        "https://wap.eastmoney.com/a/202507063449294760.html"
+      ],
+      "file": "content/_raw/2026-03-08.microstructure.tavily.md"
+    },
+    {
+      "key": "sentiment_cycle",
+      "query": "A股 情绪周期 赚钱效应 市场高度 龙头 退潮 冰点 底层逻辑",
+      "urls": [
+        "https://www.fupanwang.com/tag/%E6%83%85%E7%BB%AA%E5%91%A8%E6%9C%9F",
+        "http://mp.cnfol.com/50694/article/1738760438-141654418.html",
+        "http://www.bilibili.com/read/cv30451489/",
+        "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20250717195203711214020&postId=1572566462",
+        "https://cj.sina.cn/articles/view/7879922977/1d5ae1521019019qrg?froms=ggmp",
+        "https://caifuhao.eastmoney.com/news/20260206193957879370880",
+        "https://caifuhao.eastmoney.com/news/20250216184727592736700",
+        "https://cloud.tencent.com/developer/article/2530518",
+        "https://www.21jingji.com/article/20250721/herald/7e8c246bba1442e1d099d14acf4a46a3.html",
+        "https://www.jiuyangongshe.com/a/7378c93cec674631bebb719bfb63b6c7"
+      ],
+      "file": "content/_raw/2026-03-08.sentiment_cycle.tavily.md"
+    }
+  ]
+}

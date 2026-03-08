@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "gen": "tsx scripts/generate.ts",
-    "nightly": "bash scripts/run-nightly.sh"
+    "nightly": "bash scripts/run-nightly.sh",
+    "nightly:full": "bash scripts/nightly_full.sh"
   },
   "dependencies": {
     "next": "16.1.6",
