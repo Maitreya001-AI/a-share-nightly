@@ -27,12 +27,14 @@ function main(){
   const repoRoot = process.cwd();
   const outDir = path.join(repoRoot, 'content', '_raw');
   fs.mkdirSync(outDir, { recursive: true });
+  // Convention: store files under the trading date (上一个交易日)
 
   const args = process.argv.slice(2);
   const date = args[0] || new Date().toISOString().slice(0,10);
+  const tradingDate = args[1] || date;
 
   const queries = [
-    { key: 'market_recap', q: `A股 ${date} 复盘 涨停 跌停 连板 梯队 炸板率 成交额 板块 主线`, n: 10 },
+    { key: 'market_recap', q: `A股 ${tradingDate} 复盘 涨停 跌停 连板 梯队 炸板率 成交额 板块 主线`, n: 10 },
     { key: 'ai_robot', q: `A股 AI应用 机器人 算力硬件 军工航天 涨价 有色 化工 新能源 医药 复盘 观点`, n: 10 },
     { key: 'microstructure', q: `A股 交易制度 异动 监管 价格笼子 程序化交易 量化 游资 影响 短线`, n: 10 },
     { key: 'sentiment_cycle', q: `A股 情绪周期 赚钱效应 市场高度 龙头 退潮 冰点 底层逻辑`, n: 10 },
@@ -45,13 +47,13 @@ function main(){
   for (const it of queries){
     const md = sh('node', [tavilyScript, it.q, '-n', String(it.n), '--deep']);
     const urls = parseTavilyOutput(md);
-    const p = path.join(outDir, `${date}.${it.key}.tavily.md`);
+    const p = path.join(outDir, `${tradingDate}.${it.key}.tavily.md`);
     fs.writeFileSync(p, md);
     results.push({ key: it.key, query: it.q, urls, file: path.relative(repoRoot, p) });
   }
 
-  const indexPath = path.join(outDir, `${date}.index.json`);
-  fs.writeFileSync(indexPath, JSON.stringify({ date, generatedAt: new Date().toISOString(), queries: results }, null, 2));
+  const indexPath = path.join(outDir, `${tradingDate}.index.json`);
+  fs.writeFileSync(indexPath, JSON.stringify({ date, tradingDate, generatedAt: new Date().toISOString(), queries: results }, null, 2));
 
   console.log(`[collect] wrote ${results.length} query outputs -> ${path.relative(repoRoot, indexPath)}`);
 }

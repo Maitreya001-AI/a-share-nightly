@@ -9,7 +9,7 @@
 本站默认只输出：观察池 / 情景推演 / 风险条件，不提供明确买卖建议。
 
 ## 目录结构
-- `content/daily/YYYY-MM-DD.md`：每日复盘
+- `content/daily/YYYY-MM-DD.md`：每日复盘（文件名按“上一个交易日”）
 - `content/handbook.md`：底层逻辑手册
 - `content/insights/index.json`：文章/观点卡片
 

@@ -5,9 +5,12 @@ REPO_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$REPO_DIR"
 
 DATE="${1:-$(date +%F)}"
+TRADING_DATE="${2:-$(node scripts/tradingDate.mjs)}"
 
-# 1) collect (Tavily search outputs + URLs) into content/_raw
-node scripts/collect.mjs "$DATE"
+# 1) collect (Tavily search outputs + URLs) into content/_raw, stored under TRADING_DATE
+node scripts/collect.mjs "$DATE" "$TRADING_DATE"
+
+echo "[nightly_full] date=$DATE tradingDate=$TRADING_DATE"
 
 # 2) NOTE: composition step (LLM summarization) is done by OpenClaw agent.
 # The agent will read content/_raw/${DATE}.index.json and fetched article texts,
