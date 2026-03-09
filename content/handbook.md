@@ -57,3 +57,17 @@
 - 3月5日A股收评：创业板冲高回落领涨，MicroLED全线爆发，成交再破2.4万_财富号_东方财富网｜https://caifuhao.eastmoney.com/news/20260305150514252119010
 - 【看盘】股票情绪周期与赚钱效应底层逻辑解析：持筹与持币转换、人气个股演变及龙头断板后的资金博弈方向探索｜https://www.55188.com/thread-19802177-1-1.html
 - 3.1-韭研公社｜https://www.jiuyangongshe.com/a/113j943zns1
+
+---
+## 2026-03-05 新增素材（待你筛选/消化）
+
+- 本日新增的“可迁移观点/制度变化/资金结构线索”会先进入 insights（status=new）。
+- 你把某条的 status 改成 kept/digested，我再把它写进“固定章节”里。
+
+- “全面注册制”与“价格笼子”对交易的影响！_中金在线财经号｜http://mp.cnfol.com/32406/article/1675513931-140802361
+- 股票交易价格笼子如何影响市场交易？一文深度解析其运行机制_交易笼子-CSDN博客｜https://blog.csdn.net/caiair/article/details/148486411
+- A股板块涨停深度分析报告20260305_财富号_东方财富网｜https://caifuhao.eastmoney.com/news/20260305215016388330470
+- 2026年1月19日A股市场复盘总结今日A股三大指数低开后维持宽幅震荡走势，最终_财富号_东方财富网｜https://caifuhao.eastmoney.com/news/20260119210441045771500
+- 3月5日复盘：市场回暖修复，电网设备继续走强！_财富号_东方财富网｜https://caifuhao.eastmoney.com/news/20260305152326879670650
+- https://stock.finance.sina.com.cn/stock/view/paper.php?symbol=sh000001&reportid=808927980313｜https://stock.finance.sina.com.cn/stock/view/paper.php?symbol=sh000001&reportid=808927980313
+- 缠论+情绪周期：小周期退潮防守，SB了中锐股份 --知识铺｜https://index.zshipu.com/stock003/post/20251027/%E7%BC%A0%E8%AE%BA+%E6%83%85%E7%BB%AA%E5%91%A8%E6%9C%9F%E5%B0%8F%E5%91%A8%E6%9C%9F%E9%80%80%E6%BD%AE%E9%98%B2%E5%AE%88SB%E4%BA%86%E4%B8%AD%E9%94%90%E8%82%A1%E4%BB%BD/

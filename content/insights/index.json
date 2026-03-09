@@ -1,20 +1,309 @@
 [
   {
-    "id": "d1b091e8d354",
-    "title": "3.1-韭研公社",
-    "url": "https://www.jiuyangongshe.com/a/113j943zns1",
+    "id": "a3532244a184",
+    "title": "【信息差】A股复盘，客观/最全/好用",
+    "url": "https://www.xiaoyuzhoufm.com/podcast/6566b3c70500be931c2d6cfa",
     "source": "ai_robot",
-    "summary": "作者利益披露：原创，不作为证券推荐或投资建议，截至发文时，作者不持有相关标的。\n声明：文章观点来自网友，仅为作者个人研究意见，不代表韭研公社观点及立场，站内所有文章均不构成投资建议，请投资者注意风险，独立审慎决策。",
+    "summary": "油价破百，AI算力爆发，绿电崛起！市场探底回升，谁在逆势涨停？板块轮动加速，是机会还是陷阱？ 02:00 OPENCAL发布：油气与算力租赁概念火爆延续，后排股调整压力待释放 04:01 存储芯片产业链持续修复，Open Cloud概念横扫市场！ 06:05 存储芯片产业链持续修复，韩股三星电子股价飙升背景下，相关个股表现抗跌！ 08:05 顶级游资动作曝光！紫阳东路、北一环、张盟主等精准狙击电力与算力方向！ 10:07 想加入微信群？快来找管理人才哥微信吧！CAIGE9432！ 大家好，今天是2026年3月9日，周一，欢迎来到A股作业帮。 周末美伊不太平，油价突破120美元一桶，油气和煤炭股高开低走，随后新能源和电力抢夺资金，AI数据中心由于周末“养小龙虾”刷屏也很强，越到尾盘越强；此外，还有算电协同的 CPU的中国长城，华为概念拓维信息2连板。 接下去从K线、量能、板块、个股这4个方面做数据复盘 K线： 市场全天探底回升，三大指数跌幅明显收窄，创业板指、深成指盘中一度跌超3%。截至收盘，沪指跌0.67%，深成指跌0.74，创业板指跌0.65%，平均股价跌0.74%。 量能： 沪深两市成交额2.65万亿，较上一个交易日放量4474亿。 板块： 油气、煤炭、农业、算力租赁概念领涨；化纤、航空机场、航运港口、超硬材料板块领跌。 个股：虽然今日近4000股飘绿，但跌停的非ST个股跌停家",
     "quotes": [
       {
-        "text": "作者利益披露：原创，不作为证券推荐或投资建议，截至发文时，作者不持有相关标的。\n声明：文章观点来自网友，仅为作者个人研究意见，不代表韭研公社观点及立场，站内所有文章均不构成投资建议，请投资者注意风险，独立审慎决策。"
+        "text": "油价破百，AI算力爆发，绿电崛起！市场探底回升，谁在逆势涨停？板块轮动加速，是机会还是陷阱？ 02:00 OPENCAL发布：油气与算力租赁概念火爆延续，后排股调整压力待释放 04:01 存储芯片产业链持续修复，Open Cloud概念横扫市场！ 06:05 存储芯片产业链持续修复，韩股三星电子股价飙升背景下，相关个股表现抗跌！ 08:05 顶级游资动作曝光！紫阳东路、北一环、张盟主等精准狙击电力与算力方向！ 10:07 想加入微信群？…"
+      }
+    ],
+    "tags": [
+      "每日复盘"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-09T15:00:50.071Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "d1b091e8d354",
+    "title": "https://www.jiuyangongshe.com/a/113j943zns1",
+    "url": "https://www.jiuyangongshe.com/a/113j943zns1",
+    "source": "ai_robot",
+    "summary": "异动\n[关注](/focus)\n[社群](/)\n[交易计划](/plan)\n[搜公告](/announcement)\n[产业库](/industryChain)\n[时间轴](/timeline)\n  * 通知\n全部已读\n暂无数据\n  * 私信\n暂无数据\n登录注册\n  * 我的主页\n  * 退出\n# 请求过于频繁",
+    "quotes": [
+      {
+        "text": "异动\n[关注](/focus)\n[社群](/)\n[交易计划](/plan)\n[搜公告](/announcement)\n[产业库](/industryChain)\n[时间轴](/timeline)\n  * 通知\n全部已读\n暂无数据\n  * 私信\n暂无数据\n登录注册\n  * 我的主页\n  * 退出\n# 请求过于频繁"
       }
     ],
     "tags": [
       "赛道"
     ],
     "status": "new",
-    "fetchedAt": "2026-03-08T15:54:27.973Z",
+    "fetchedAt": "2026-03-09T15:00:48.453Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 500,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "8b5a11866876",
+    "title": "缠论+情绪周期：小周期退潮防守，SB了中锐股份 --知识铺",
+    "url": "https://index.zshipu.com/stock003/post/20251027/%E7%BC%A0%E8%AE%BA+%E6%83%85%E7%BB%AA%E5%91%A8%E6%9C%9F%E5%B0%8F%E5%91%A8%E6%9C%9F%E9%80%80%E6%BD%AE%E9%98%B2%E5%AE%88SB%E4%BA%86%E4%B8%AD%E9%94%90%E8%82%A1%E4%BB%BD/",
+    "source": "sentiment_cycle",
+    "summary": "🔥点击关注「简作复盘笔记」→点右上角“…”→设为星标🌟\n每日缠论结构+情绪周期双角度深度复盘、热点逻辑拆解，**第一时间直达首页** ！\n1.大盘\n指数基本上也和预期一样，进入了一分级别回调，上午延续线段回调，直到下午两点指数才走出来严格意义上的线段反弹，目前一分级别回调结构不够，尾盘最后一个线段在周一如果没有继续形成非背驰下跌，这个一分级别回调主杀就结束，后面就是中枢震荡的修复反弹或者一分级别转折向上。这在周一十点之前就可以确认了。\n指数进入一分回调，投机情绪也基本上符合一致，亏钱效应继续扩散，小周期内指数共振的趋势抱团品种AI硬件科技，与指数同样共振分歧退潮。周期内的支线题材以及连板中低位继续回调，比如青岛双星、盈新发展、达华智能、安泰科技、中国核建、中钨高新等，亏钱效应也扩散至主升阶段的情绪博弈品种，亚士创能跌停补跌。小周期内投机情绪亏钱效应爆炸。\n小周期主升结束后的分歧，又是周五的周末博弈节点，市场自然选择规避高位，进入低位品种的防御板块医药、AI应用启动。而昨天的固态电池，也走出来了下周起的题材卡位。同时部分高位品种进入弱势的情绪抱团博弈，尝试大周期的穿越。因为目前五分级别向上结构并不够，这里一分回调结束后，依然会有一波新的小周期主升，而且这个阶段，第一个小周期内逻辑没有完全兑现的高位人气品种会进入二波以及抱团震荡，走出二波与穿越的则就构成了大周期的共振主线方向。\n目",
+    "quotes": [
+      {
+        "text": "🔥点击关注「简作复盘笔记」→点右上角“…”→设为星标🌟\n每日缠论结构+情绪周期双角度深度复盘、热点逻辑拆解，**第一时间直达首页** ！\n1.大盘\n指数基本上也和预期一样，进入了一分级别回调，上午延续线段回调，直到下午两点指数才走出来严格意义上的线段反弹，目前一分级别回调结构不够，尾盘最后一个线段在周一如果没有继续形成非背驰下跌，这个一分级别回调主杀就结束，后面就是中枢震荡的修复反弹或者一分级别转折向上。这在周一十点之前就可以确认了…"
+      }
+    ],
+    "tags": [
+      "情绪周期"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-09T15:00:47.685Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "c14314780a7b",
+    "title": "https://stock.finance.sina.com.cn/stock/view/paper.php?symbol=sh000001&reportid=808927980313",
+    "url": "https://stock.finance.sina.com.cn/stock/view/paper.php?symbol=sh000001&reportid=808927980313",
+    "source": "sentiment_cycle",
+    "summary": "",
+    "quotes": [],
+    "tags": [
+      "情绪周期"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-09T15:00:46.236Z",
+    "fetch": {
+      "ok": false,
+      "warnings": [
+        "Error: Command failed: bash -lc source /Users/xrensiu/.openclaw/workspace/.venv/bin/activate && python /Users/xrensiu/.openclaw/shared-skills/fetcher-router/fetch_url.py \"https://stock.finance.sina.com.cn/stock/view/paper.php?symbol=sh000001&reportid=808927980313\" --json\n/Users/xrensiu/.openclaw/workspace/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\n"
+      ]
+    }
+  },
+  {
+    "id": "e8be05afb980",
+    "title": "关于股市情绪周期的深入思考(春节干货贴一)_恨一个人就让他炒股_ 淘股吧",
+    "url": "https://www.tgb.cn/a/2pqI4ifouR0-1",
+    "source": "sentiment_cycle",
+    "summary": "股市情绪周期，本质是市场参与者群体心理与资金行为的周期性循环，是人性的贪婪、恐惧、从众、锚定在交易中的集中映射，是与基本面周期、流动性周期并列的A股三大核心运行规律。它不会因市场制度变化而消失，只会随交易生态进化而改变形态，读懂它，本质是读懂市场的“人心”，更是读懂自己的交易心魔。\n一、情绪周期的底层核心逻辑\n情绪周期的运行从来不是随机波动，而是四大底层逻辑共同驱动的必然结果，这也是其百年未变的根本原因：\n1\\. 人性的不变性是核心根基。市场永远在“绝望→怀疑→乐观→贪婪→恐慌→绝望”的闭环中循环，根源是人性从未改变。牛市里人人坚信“这次不一样”，把估值炒到天际；熊市里人人笃定“永远涨不回来”，在历史底部割肉离场，这种集体性的情绪极端化，是情绪周期最底层的\n[驱动力](https://www.tgb.cn/new/stockbar/barRedirect?stockName=%E9%A9%B1%E5%8A%A8%E5%8A%9B)\n。\n2\\. 反身性理论是运行机制。索罗斯的反身性，完美解释了情绪周期的自我强化与毁灭：投资者的预期会影响交易行为，交易行为又会反过来强化市场预期，形成正反馈循环。上涨时，赚钱效应吸引资金入场，资金推高股价，进一步强化“还会涨”的预期，直到没有新增资金承接；下跌时，亏钱效应引发抛售，抛售打压股价，进一步强化“还会跌”的预期，直到恐慌盘彻底出清。\n3\\. 资",
+    "quotes": [
+      {
+        "text": "股市情绪周期，本质是市场参与者群体心理与资金行为的周期性循环，是人性的贪婪、恐惧、从众、锚定在交易中的集中映射，是与基本面周期、流动性周期并列的A股三大核心运行规律。它不会因市场制度变化而消失，只会随交易生态进化而改变形态，读懂它，本质是读懂市场的“人心”，更是读懂自己的交易心魔。\n一、情绪周期的底层核心逻辑\n情绪周期的运行从来不是随机波动，而是四大底层逻辑共同驱动的必然结果，这也是其百年未变的根本原因：\n1\\. 人性的不变性是核心根基…"
+      }
+    ],
+    "tags": [
+      "情绪周期",
+      "淘股吧"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-09T15:00:45.792Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "54ec47f0987e",
+    "title": "3月5日复盘：市场回暖修复，电网设备继续走强！_财富号_东方财富网",
+    "url": "https://caifuhao.eastmoney.com/news/20260305152326879670650",
+    "source": "market_recap",
+    "summary": "[$汉缆股份(SZ002498)$](https://quote.eastmoney.com/unify/r/0.002498) [$顺钠股份(SZ000533)$](https://quote.eastmoney.com/unify/r/0.000533) [$洲际油气(SH600759)$](https://quote.eastmoney.com/unify/r/1.600759) #炒股日记#  #社区牛人计划#  #AI引爆电力革命，电网升级催生新机遇#  #机构：Micro LED CPO开启数据中心互连新局#  #收盘点评#\n3月5日A股探底回升、缩量震荡修复，沪指围绕4100点反复拉锯，两市成交额小幅回落，存量博弈格局依旧。盘面呈现明显高低切换，资金从前期高位板块流出，转向电网设备等低位政策方向，板块竞价强势、个股批量走强，成为日内最赚钱方向。今作紧扣主线，聚焦电网方向布局，整体节奏贴合市场。当前市场仍以震荡整固为主，操作上继续严控仓位、不追高、不盲目开仓，重点跟踪主线持续性，等待量能有效放大后，再加大进攻力度。\n一、大盘：\n3月5日A股探底回升、缩量震荡收涨，沪指报4098.23点（+0.39%），深成指13976.51点（+0.42%），创业板指3178.64点（+0.45%）；两市全天成交2.29万亿元，较昨日缩量约760亿元，存量博弈特征明显。盘面呈现高低切换",
+    "quotes": [
+      {
+        "text": "[$汉缆股份(SZ002498)$](https://quote.eastmoney.com/unify/r/0.002498) [$顺钠股份(SZ000533)$](https://quote.eastmoney.com/unify/r/0.000533) [$洲际油气(SH600759)$](https://quote.eastmoney.com/unify/r/1.600759) #炒股日记#  #社区牛人计划#  #AI引爆电力…"
+      }
+    ],
+    "tags": [
+      "每日复盘",
+      "东方财富"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-09T15:00:44.820Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "58ff9db829ff",
+    "title": "2026年1月19日A股市场复盘总结今日A股三大指数低开后维持宽幅震荡走势，最终_财富号_东方财富网",
+    "url": "https://caifuhao.eastmoney.com/news/20260119210441045771500",
+    "source": "market_recap",
+    "summary": "[$蓝色光标(SZ300058)$](https://quote.eastmoney.com/unify/r/0.300058) 2026年1月19日A股市场复盘总结\n今日A股三大指数低开后维持宽幅震荡走势，最终呈现分化格局，个股活跃度优于指数表现。上证指数微涨0.29%，收报4114.00点；深证成指小幅上涨0.09%，报14294.05点；创业板指走势偏弱，下跌0.70%，收于3337.61点；科创50指数同步走弱，跌幅达0.48%。\n从市场整体交易情况来看，沪深两市成交额报2.7万亿元，较前一交易日缩减3179亿元，量能有所回落。个股层面呈现“涨多跌少”态势，3526只个股实现上涨，1826只个股下跌；涨停股数量达122只，同时有39只个股跌幅超9%，赚钱效应集中在特定赛道，结构性特征凸显。\n板块轮动节奏加快，强弱分化十分鲜明。电网设备板块成为全场绝对主线，受益于“十五五”期间4万亿元电网投资规划的利好催化，板块内24只个股收获涨停，占据全市场涨停股数量近四分之一，森源电气、汉缆股份晋级2连板，特变电工、中国西电等千亿市值龙头也获资金积极追捧，板块资金净流入规模居前。基础化工板块紧随其后，新乡化纤、利尔化学等多股涨停，成为资金的另一大主攻方向。此外，石油石化、汽车板块也有亮眼表现，渤海化学涨停，恒力石化涨超5%；汽车板块内超捷股份、卡倍亿等标的涨停或涨幅超10%，在轮动行情中",
+    "quotes": [
+      {
+        "text": "[$蓝色光标(SZ300058)$](https://quote.eastmoney.com/unify/r/0.300058) 2026年1月19日A股市场复盘总结\n今日A股三大指数低开后维持宽幅震荡走势，最终呈现分化格局，个股活跃度优于指数表现。上证指数微涨0.29%，收报4114.00点；深证成指小幅上涨0.09%，报14294.05点；创业板指走势偏弱，下跌0.70%，收于3337.61点；科创50指数同步走弱，跌幅达0.48%…"
+      }
+    ],
+    "tags": [
+      "每日复盘",
+      "东方财富"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-09T15:00:44.028Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "44e834ec6af1",
+    "title": "A股板块涨停深度分析报告20260305_财富号_东方财富网",
+    "url": "https://caifuhao.eastmoney.com/news/20260305215016388330470",
+    "source": "market_recap",
+    "summary": "以下内容为AI总结，用来跟踪学习\n* 上证指数: 涨0.64%报4108.57点\n* 深证成指: 涨1.23%报14088.84点\n* 创业板指: 涨1.66%报3216.94点\n* 科创50指数: 涨1.72%报1405.35点\n* 成交额: 沪深两市成交额2.39万亿元，较前一交易日放量243亿元\n* 市场情绪: 全市场近4100只个股上涨（占比82%），结构性赚钱效应显著\n今日市场呈现\"科技领涨、能源跟随\"特征，MicroLED与电网设备成为资金主战场：\n* 科技主线: MicroLED概念集体爆发，LED行业指数单日涨超10%\n* 能源主线: 电网设备板块表现强势，特高压、智能配网受资金追捧\n* 主力资金净流入: 电子(+150亿，MicroLED与算力)、电力设备(+120亿，电网设备)\n* 北向资金净流入: 超70亿元，重点加仓宁德时代(+15亿)、中国西电(+12亿)、中际旭创(+10亿)\n* 两融资金: 杠杆资金涌入MicroLED(聚飞光电融资余额增10%)与电网设备\n* 涨停股票数量: 750只（2026-03-05），较前一日90只增长733%\n* 连续表现: 连续两天涨停数超过10只（90只→750只）\n* 市场地位: 今日领涨板块，LED行业指数暴涨超10%\n核心驱动因素：AI数据中心\"光进铜退\"技术革命\n* 技术突破: MicroLED CPO方案单位传",
+    "quotes": [
+      {
+        "text": "以下内容为AI总结，用来跟踪学习\n* 上证指数: 涨0.64%报4108.57点\n* 深证成指: 涨1.23%报14088.84点\n* 创业板指: 涨1.66%报3216.94点\n* 科创50指数: 涨1.72%报1405.35点\n* 成交额: 沪深两市成交额2.39万亿元，较前一交易日放量243亿元\n* 市场情绪: 全市场近4100只个股上涨（占比82%），结构性赚钱效应显著\n今日市场呈现\"科技领涨、能源跟随\"特征，MicroLED与…"
+      }
+    ],
+    "tags": [
+      "每日复盘",
+      "东方财富"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-09T15:00:43.262Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "1561b718f957",
+    "title": "量化交易功过之辩，管理层一锤定音：规范发展 ｜钛媒体焦点",
+    "url": "https://news.qq.com/rain/a/20230905A0056J00",
+    "source": "microstructure",
+    "summary": "最近几个月来，证券市场“讨伐”量化交易的情绪高涨。部分业内人士直指私募量化基金“助涨助跌”，是“割韭菜的工具”、“危险的代码”。特别是近期股指在多重重大利好的刺激下，大幅波动，板块轮动加快但缺乏连续性，个股的操作难度颇大。投资者追究原因，量化成了情绪的宣泄口，在各种人马的推动下，量化到底是市场的福还是祸成了热门话题。而在这种背景下，管理层也出了相关措施予以规范。\n9月1日，证监会在其官网发布通告，称已“指导上海、深圳、北京证券交易所制定发布了《关于股票程序化交易报告工作有关事项的通知》《关于加强程序化交易管理有关事项的通知》”。上述文件明确了股票市场程序化交易报告的具体安排，并对高频交易作出了额外报告的要求。\n上述公告则是证监会数月来首次正面回应市场关切，证监会也在通告中表示，“这是证监会顺应市场呼声，深化关键领域制度创新的一项举措，标志着我国股票市场正式建立起程序化交易报告制度和相应的监管安排”。\n从措辞来看，证监会释放的态度温和。不仅定性了量化交易是“国内证券市场投资者重要交易方式之一”，且对其积极意义：“在提升交易效率、增强市场流动性等方面具有一定积极作用，但在特定市场环境下存在加大市场波动的风险”，多有肯定，其主要还是倾向通过报告制度加强监管并促进后者规范发展。\n市场频发质疑\n证监会在通告中表示，近年来，A股市场程序化交易规模持续上升，逐步成为国内证券市场投资者重要交易方式",
+    "quotes": [
+      {
+        "text": "最近几个月来，证券市场“讨伐”量化交易的情绪高涨。部分业内人士直指私募量化基金“助涨助跌”，是“割韭菜的工具”、“危险的代码”。特别是近期股指在多重重大利好的刺激下，大幅波动，板块轮动加快但缺乏连续性，个股的操作难度颇大。投资者追究原因，量化成了情绪的宣泄口，在各种人马的推动下，量化到底是市场的福还是祸成了热门话题。而在这种背景下，管理层也出了相关措施予以规范。\n9月1日，证监会在其官网发布通告，称已“指导上海、深圳、北京证券交易所制定…"
+      }
+    ],
+    "tags": [
+      "制度与微观结构"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-09T15:00:42.411Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "requests",
+      "status_code": 200,
+      "warnings": []
+    }
+  },
+  {
+    "id": "9842efc052b8",
+    "title": "股票交易价格笼子如何影响市场交易？一文深度解析其运行机制_交易笼子-CSDN博客",
+    "url": "https://blog.csdn.net/caiair/article/details/148486411",
+    "source": "microstructure",
+    "summary": "[Python股票接口实现查询账户，提交订单，自动交易（1）](https://blog.csdn.net/caiair/article/details/141714005)\n[Python股票程序交易接口查账，提交订单，自动交易（2）](https://blog.csdn.net/caiair/article/details/141787258)\n* * *\n[股票量化，Python炒股，CSDN交流社区 >>>](https://bbs.csdn.net/forums/caiair)\n* * *\n股票交易价格笼子是一种交易规则，它为股票申报价格设定了一个合理范围。在这个范围内，投资者的申报才会被接受。这个范围通常是基于当前成交价来确定的，比如设定上下一定比例的区间。价格笼子的目的是防止价格的剧烈波动，让交易更加有序进行。\n##### **价格笼子的起源与发展**\n价格笼子并非一开始就存在于股票市场，它是随着市场的发展和监管的需求逐渐形成的。早期股票市场波动较大，为了维护市场的稳定，监管机构开始探索并引入价格笼子机制。随着技术的进步和市场环境的变化，价格笼子的规则也在不断优化和完善。\n##### **维护市场价格稳定性**\n价格笼子通过限制申报价格的范围，避免了一些极端价格的出现。当市场出现突发情况时，不会因为个别投资者的非理性申报而导致价格大幅跳动。这样能让股票价格在一个相对合",
+    "quotes": [
+      {
+        "text": "[Python股票接口实现查询账户，提交订单，自动交易（1）](https://blog.csdn.net/caiair/article/details/141714005)\n[Python股票程序交易接口查账，提交订单，自动交易（2）](https://blog.csdn.net/caiair/article/details/141787258)\n* * *\n[股票量化，Python炒股，CSDN交流社区 >>>](https://b…"
+      }
+    ],
+    "tags": [
+      "制度与微观结构"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-09T15:00:42.145Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "99254ab0cb6d",
+    "title": "@2.13亿股民！股票交易规则这五大变化须知，新规今天实施？还有多个认识误区要避开",
+    "url": "https://www.cls.cn/detail/1272183",
+    "source": "microstructure",
+    "summary": "**财联社2月20日讯（记者 高艳云）** 全面注册制落地之后，新交易规则成为重点讨论领域，也是券商投顾在在朋友圈中分享最多的内容。\n全面梳理交易规则，可见全面注册制下的主板交易规则主要有五大变化。\n> 一是停牌新规出台，以及新股上市交易涨跌停机制生变。包括股票10天内发生4次异动公告等三种情形出现其一则停牌；上市后的前5个交易日不设涨跌幅限制，无涨跌幅限制股票盘中涨幅超30%、60%的单次停牌10分钟。\n> 二是价格笼子机制，即买入（卖出）申报价格不得高于（低于）买入（卖出）基准价格的102%（98%）和买入（卖出）基准价格以上十个申报价格最小变动单位的孰高值。\n> 三是主板盘后定价交易与优化两融交易，上市股票首个交易日起可作为两融标的，引入盘后交易满足确定性价格成交需求。\n> 四是完善主板交易信息公开规定，对异常波动有明确规定，增加严重异常波动等相关规定和定义。\n> 五是优化证券交易监督相关规定，新增“程序化交易影响系统安全或正常交易秩序”的异常交易行为等。\n这其中，“2%的价格笼子”作为主板新的交易机制备受市场关注，据记者向交易所人士了解，这基本是向主板平移了科创板的相关交易规则，在这一交易制度约束下，目前科创板基本没有天地板，可见其对交易的约束性，即投资者不可能再凭一张单子直接将价格打到涨停板。当前市场误读的是，2%对应的是现价，事实对应的是基准价。\n对此有网友调侃说，难再",
+    "quotes": [
+      {
+        "text": "**财联社2月20日讯（记者 高艳云）** 全面注册制落地之后，新交易规则成为重点讨论领域，也是券商投顾在在朋友圈中分享最多的内容。\n全面梳理交易规则，可见全面注册制下的主板交易规则主要有五大变化。\n> 一是停牌新规出台，以及新股上市交易涨跌停机制生变。包括股票10天内发生4次异动公告等三种情形出现其一则停牌；上市后的前5个交易日不设涨跌幅限制，无涨跌幅限制股票盘中涨幅超30%、60%的单次停牌10分钟。\n> 二是价格笼子机制，即买入（…"
+      }
+    ],
+    "tags": [
+      "制度与微观结构"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-09T15:00:40.386Z",
+    "fetch": {
+      "ok": true,
+      "strategy": "scrapling",
+      "status_code": 200,
+      "warnings": [
+        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
+        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
+        "scrapling returned empty html"
+      ]
+    }
+  },
+  {
+    "id": "b19c599bca8c",
+    "title": "“全面注册制”与“价格笼子”对交易的影响！_中金在线财经号",
+    "url": "http://mp.cnfol.com/32406/article/1675513931-140802361",
+    "source": "microstructure",
+    "summary": "**“全面注册制”与“价格笼子”对交易的影响！**\n**一.先说说“A股市场”与“RMB汇率”的关联性影响。**\n**2023年开年以来，市场里北上资金累计净流入额达到1400亿元，同时，人民币汇率在连续2个多月大幅升值后，处于低位震荡中；**\n**把A股指数走势与RMB汇率走势重叠在一起看，两者之间呈现某些关联性，这种关联性也与北上资金有关。**\n**比如，**\n**去年7月RMB汇率经过中途横向震荡后，再次踏上贬值之路，同时A股市场走出了震荡下跌走势；**\n**去年11月以来，A股市场出现见底反弹现象同时，RMB汇率则进入升值过程；**\n**这其中北上资金的进出对市场的影响很明显。**\n**但我们市场如果仅仅“依靠”北上资金来影响涨跌，并不是一件好事；**\n**还需要国内市场资金群体能够显现积极的影响力来。**\n**周五，“RMB汇率”在“美元”突然上涨影响下，也出现跟随贬值走势；**\n**因此，很多人开始担心下周大盘会下跌。**\n**这种担心是有道理的，从技术图形上看，目前“美元”和“RMB汇率”均处于波段性的一个低位，**\n**短线技术上存在反弹条件（注：“美元”反弹起来是升值；“RMB汇率”反弹起来是贬值。）。**\n**不过，由于两者在技术上目前还没有扭转过来（短期系统），因此，短线反弹起来后，还可能会有一个震荡过程。**\n**因此，下周里，大盘短线会受到一定压制，主要可",
+    "quotes": [
+      {
+        "text": "**“全面注册制”与“价格笼子”对交易的影响！**\n**一.先说说“A股市场”与“RMB汇率”的关联性影响。**\n**2023年开年以来，市场里北上资金累计净流入额达到1400亿元，同时，人民币汇率在连续2个多月大幅升值后，处于低位震荡中；**\n**把A股指数走势与RMB汇率走势重叠在一起看，两者之间呈现某些关联性，这种关联性也与北上资金有关。**\n**比如，**\n**去年7月RMB汇率经过中途横向震荡后，再次踏上贬值之路，同时A股市场…"
+      }
+    ],
+    "tags": [
+      "制度与微观结构"
+    ],
+    "status": "new",
+    "fetchedAt": "2026-03-09T15:00:38.086Z",
     "fetch": {
       "ok": true,
       "strategy": "requests",
@@ -181,33 +470,6 @@
     }
   },
   {
-    "id": "99254ab0cb6d",
-    "title": "@2.13亿股民！股票交易规则这五大变化须知，新规今天实施？还有多个认识误区要避开",
-    "url": "https://www.cls.cn/detail/1272183",
-    "source": "microstructure",
-    "summary": "**财联社2月20日讯（记者 高艳云）** 全面注册制落地之后，新交易规则成为重点讨论领域，也是券商投顾在在朋友圈中分享最多的内容。\n全面梳理交易规则，可见全面注册制下的主板交易规则主要有五大变化。\n> 一是停牌新规出台，以及新股上市交易涨跌停机制生变。包括股票10天内发生4次异动公告等三种情形出现其一则停牌；上市后的前5个交易日不设涨跌幅限制，无涨跌幅限制股票盘中涨幅超30%、60%的单次停牌10分钟。\n> 二是价格笼子机制，即买入（卖出）申报价格不得高于（低于）买入（卖出）基准价格的102%（98%）和买入（卖出）基准价格以上十个申报价格最小变动单位的孰高值。\n> 三是主板盘后定价交易与优化两融交易，上市股票首个交易日起可作为两融标的，引入盘后交易满足确定性价格成交需求。\n> 四是完善主板交易信息公开规定，对异常波动有明确规定，增加严重异常波动等相关规定和定义。\n> 五是优化证券交易监督相关规定，新增“程序化交易影响系统安全或正常交易秩序”的异常交易行为等。\n这其中，“2%的价格笼子”作为主板新的交易机制备受市场关注，据记者向交易所人士了解，这基本是向主板平移了科创板的相关交易规则，在这一交易制度约束下，目前科创板基本没有天地板，可见其对交易的约束性，即投资者不可能再凭一张单子直接将价格打到涨停板。当前市场误读的是，2%对应的是现价，事实对应的是基准价。\n对此有网友调侃说，难再",
-    "quotes": [
-      {
-        "text": "**财联社2月20日讯（记者 高艳云）** 全面注册制落地之后，新交易规则成为重点讨论领域，也是券商投顾在在朋友圈中分享最多的内容。\n全面梳理交易规则，可见全面注册制下的主板交易规则主要有五大变化。\n> 一是停牌新规出台，以及新股上市交易涨跌停机制生变。包括股票10天内发生4次异动公告等三种情形出现其一则停牌；上市后的前5个交易日不设涨跌幅限制，无涨跌幅限制股票盘中涨幅超30%、60%的单次停牌10分钟。\n> 二是价格笼子机制，即买入（…"
-      }
-    ],
-    "tags": [
-      "制度与微观结构"
-    ],
-    "status": "new",
-    "fetchedAt": "2026-03-08T15:54:14.352Z",
-    "fetch": {
-      "ok": true,
-      "strategy": "scrapling",
-      "status_code": 200,
-      "warnings": [
-        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
-        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
-        "scrapling returned empty html"
-      ]
-    }
-  },
-  {
     "id": "9713173586cd",
     "title": "https://xueqiu.com/4026867340/294772279",
     "url": "https://xueqiu.com/4026867340/294772279",
@@ -303,34 +565,6 @@
     }
   },
   {
-    "id": "e8be05afb980",
-    "title": "关于股市情绪周期的深入思考(春节干货贴一)_恨一个人就让他炒股_ 淘股吧",
-    "url": "https://www.tgb.cn/a/2pqI4ifouR0-1",
-    "source": "sentiment_cycle",
-    "summary": "股市情绪周期，本质是市场参与者群体心理与资金行为的周期性循环，是人性的贪婪、恐惧、从众、锚定在交易中的集中映射，是与基本面周期、流动性周期并列的A股三大核心运行规律。它不会因市场制度变化而消失，只会随交易生态进化而改变形态，读懂它，本质是读懂市场的“人心”，更是读懂自己的交易心魔。\n一、情绪周期的底层核心逻辑\n情绪周期的运行从来不是随机波动，而是四大底层逻辑共同驱动的必然结果，这也是其百年未变的根本原因：\n1\\. 人性的不变性是核心根基。市场永远在“绝望→怀疑→乐观→贪婪→恐慌→绝望”的闭环中循环，根源是人性从未改变。牛市里人人坚信“这次不一样”，把估值炒到天际；熊市里人人笃定“永远涨不回来”，在历史底部割肉离场，这种集体性的情绪极端化，是情绪周期最底层的\n[驱动力](https://www.tgb.cn/new/stockbar/barRedirect?stockName=%E9%A9%B1%E5%8A%A8%E5%8A%9B)\n。\n2\\. 反身性理论是运行机制。索罗斯的反身性，完美解释了情绪周期的自我强化与毁灭：投资者的预期会影响交易行为，交易行为又会反过来强化市场预期，形成正反馈循环。上涨时，赚钱效应吸引资金入场，资金推高股价，进一步强化“还会涨”的预期，直到没有新增资金承接；下跌时，亏钱效应引发抛售，抛售打压股价，进一步强化“还会跌”的预期，直到恐慌盘彻底出清。\n3\\. 资",
-    "quotes": [
-      {
-        "text": "股市情绪周期，本质是市场参与者群体心理与资金行为的周期性循环，是人性的贪婪、恐惧、从众、锚定在交易中的集中映射，是与基本面周期、流动性周期并列的A股三大核心运行规律。它不会因市场制度变化而消失，只会随交易生态进化而改变形态，读懂它，本质是读懂市场的“人心”，更是读懂自己的交易心魔。\n一、情绪周期的底层核心逻辑\n情绪周期的运行从来不是随机波动，而是四大底层逻辑共同驱动的必然结果，这也是其百年未变的根本原因：\n1\\. 人性的不变性是核心根基…"
-      }
-    ],
-    "tags": [
-      "情绪周期",
-      "淘股吧"
-    ],
-    "status": "new",
-    "fetchedAt": "2026-03-08T15:08:11.423Z",
-    "fetch": {
-      "ok": true,
-      "strategy": "scrapling",
-      "status_code": 200,
-      "warnings": [
-        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
-        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
-        "scrapling returned empty html"
-      ]
-    }
-  },
-  {
     "id": "5bf070515ca5",
     "title": "A股板块涨停深度分析报告20260305_财富号_东方财富网",
     "url": "https://caifuhao.eastmoney.com/news/20260305215016388330470?from=guba&name=5LiW5ZiJ56eR5oqA5ZCn&gubaurl=aHR0cDovL2d1YmFwb3N0LmVhc3Rtb25leS5jb20vbGlzdCwwMDI3OTYuaHRtbA%3D%3D",
@@ -374,29 +608,6 @@
     ],
     "status": "new",
     "fetchedAt": "2026-03-08T15:08:01.116Z",
-    "fetch": {
-      "ok": true,
-      "strategy": "requests",
-      "status_code": 200,
-      "warnings": []
-    }
-  },
-  {
-    "id": "1561b718f957",
-    "title": "量化交易功过之辩，管理层一锤定音：规范发展 ｜钛媒体焦点",
-    "url": "https://news.qq.com/rain/a/20230905A0056J00",
-    "source": "microstructure",
-    "summary": "最近几个月来，证券市场“讨伐”量化交易的情绪高涨。部分业内人士直指私募量化基金“助涨助跌”，是“割韭菜的工具”、“危险的代码”。特别是近期股指在多重重大利好的刺激下，大幅波动，板块轮动加快但缺乏连续性，个股的操作难度颇大。投资者追究原因，量化成了情绪的宣泄口，在各种人马的推动下，量化到底是市场的福还是祸成了热门话题。而在这种背景下，管理层也出了相关措施予以规范。\n9月1日，证监会在其官网发布通告，称已“指导上海、深圳、北京证券交易所制定发布了《关于股票程序化交易报告工作有关事项的通知》《关于加强程序化交易管理有关事项的通知》”。上述文件明确了股票市场程序化交易报告的具体安排，并对高频交易作出了额外报告的要求。\n上述公告则是证监会数月来首次正面回应市场关切，证监会也在通告中表示，“这是证监会顺应市场呼声，深化关键领域制度创新的一项举措，标志着我国股票市场正式建立起程序化交易报告制度和相应的监管安排”。\n从措辞来看，证监会释放的态度温和。不仅定性了量化交易是“国内证券市场投资者重要交易方式之一”，且对其积极意义：“在提升交易效率、增强市场流动性等方面具有一定积极作用，但在特定市场环境下存在加大市场波动的风险”，多有肯定，其主要还是倾向通过报告制度加强监管并促进后者规范发展。\n市场频发质疑\n证监会在通告中表示，近年来，A股市场程序化交易规模持续上升，逐步成为国内证券市场投资者重要交易方式",
-    "quotes": [
-      {
-        "text": "最近几个月来，证券市场“讨伐”量化交易的情绪高涨。部分业内人士直指私募量化基金“助涨助跌”，是“割韭菜的工具”、“危险的代码”。特别是近期股指在多重重大利好的刺激下，大幅波动，板块轮动加快但缺乏连续性，个股的操作难度颇大。投资者追究原因，量化成了情绪的宣泄口，在各种人马的推动下，量化到底是市场的福还是祸成了热门话题。而在这种背景下，管理层也出了相关措施予以规范。\n9月1日，证监会在其官网发布通告，称已“指导上海、深圳、北京证券交易所制定…"
-      }
-    ],
-    "tags": [
-      "制度与微观结构"
-    ],
-    "status": "new",
-    "fetchedAt": "2026-03-08T15:08:00.871Z",
     "fetch": {
       "ok": true,
       "strategy": "requests",
@@ -542,33 +753,6 @@
     ],
     "status": "new",
     "fetchedAt": "2026-03-08T12:52:43.692Z",
-    "fetch": {
-      "ok": true,
-      "strategy": "scrapling",
-      "status_code": 200,
-      "warnings": [
-        "scrapling configure failed: AttributeError: You must pass a keyword to configure, current keywords: ('huge_tree', 'auto_match', 'storage', 'keep_cdata', 'storage_args', 'keep_comments', 'automatch_domain')?",
-        "scrapling error: FileNotFoundError: Version information not found at /Users/xrensiu/Library/Caches/camoufox/version.json. Please run `camoufox fetch` to install.",
-        "scrapling returned empty html"
-      ]
-    }
-  },
-  {
-    "id": "a3532244a184",
-    "title": "【信息差】A股复盘，客观/最全/好用",
-    "url": "https://www.xiaoyuzhoufm.com/podcast/6566b3c70500be931c2d6cfa",
-    "source": "market_recap",
-    "summary": "A股连板冰点，量化主导一日游？MICRO、电网、核聚变轮番上阵，谁是真主线？科技与能源争抢资金，游资都干不过量化了？ 02:00 政府工作报告刺激，绿色能源与未来经济崛起！脑机接口、滤电滤氢等方向冲高！ 04:00 化工产业链升温，聚酯产业链表现亮眼，石化股方向何去何从？ 06:01 化工股方向受关注，煤化工、电解铝等我国具备低成本产能优势方向可持续关注 08:04 张盟主投资路径曝光：初川润、美的集团、海信能科，真相揭秘！ 大家好，今天是2026年3月5日，周四，欢迎来到A股作业帮。 连板接力方向持续低迷，没有高度，都怪量化。 量化的反应是不是太快了点？周一平铺油气，昨天平铺XX智能，炒“智能经济”，今天平铺XX光电，炒MicroLED CPO，一日游概率很大。 莫得感情的机器人，真难玩。猜猜明天涨什么？ 接下去从K线、量能、板块、个股这4个方面做数据复盘： K线： 市场冲高回落，收十字星。截至收盘，上证指数涨0.64%，深成指涨1.23%，创业板指涨1.66%，北证50指数涨1.12%，平均股价涨1.2%。 量能： 沪深京三市成交额24126亿元，较上日放量246亿元。 北向资金成交总额 3163.47亿元，南向资金净买额 -277.35亿港元。其中沪股通成交总额 1475.66亿元，深股通成交总额 1687.82亿元。 板块： MicroLED、电网设备、存储芯片、可控核聚变",
-    "quotes": [
-      {
-        "text": "A股连板冰点，量化主导一日游？MICRO、电网、核聚变轮番上阵，谁是真主线？科技与能源争抢资金，游资都干不过量化了？ 02:00 政府工作报告刺激，绿色能源与未来经济崛起！脑机接口、滤电滤氢等方向冲高！ 04:00 化工产业链升温，聚酯产业链表现亮眼，石化股方向何去何从？ 06:01 化工股方向受关注，煤化工、电解铝等我国具备低成本产能优势方向可持续关注 08:04 张盟主投资路径曝光：初川润、美的集团、海信能科，真相揭秘！ 大家好，今…"
-      }
-    ],
-    "tags": [
-      "每日复盘"
-    ],
-    "status": "new",
-    "fetchedAt": "2026-03-08T12:52:42.860Z",
     "fetch": {
       "ok": true,
       "strategy": "scrapling",
